@@ -24,5 +24,5 @@
 
 ### User Guidance
 
-The *Chinese Version* user guidance can be found in the repository or *[here]()*.
+The *Chinese Version* user guidance can be found in the repository or *[here](https://sprlau.github.io/CrossKeys-User-Guidance.pdf)*.
 
