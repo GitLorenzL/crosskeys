@@ -10,7 +10,7 @@
 
    > for Windows 64-bit: [Download](https://download.unity3d.com/download_unity/38b4efef76f0/Windows64EditorInstaller/UnitySetup64-5.5.0f3.exe)
    >
-   > for Windows 32-bit (* Not recommended): [Download](https://download.unity3d.com/download_unity/38b4efef76f0/Windows32EditorInstaller/UnitySetup32-5.5.0f3.exe)
+   > for Windows 32-bit (* not recommended): [Download](https://download.unity3d.com/download_unity/38b4efef76f0/Windows32EditorInstaller/UnitySetup32-5.5.0f3.exe)
 
 3. Clone this repository:
 
