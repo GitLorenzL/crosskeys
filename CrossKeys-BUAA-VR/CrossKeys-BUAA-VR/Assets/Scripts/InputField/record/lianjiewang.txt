@@ -1,0 +1,649 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 11:48:02 AM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_E><VK_I><Del><VK_X><VK_C><VK_E><VK_E><VK_E><PC><Del><Del><VK_D><Space><PC><VK_M><VK_A><VK_X><PC><VK_S><VK_P><VK_E><VK_E><PC><VK_L><VK_I><VK_M><SC><Space>
+Assigned Phrase: 
+"exceed the maximum speed limit"
+Real Text Entered: 
+"exceed the maximum speed limit  "
+WPM: 14.1650374414401
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 11:49:07 AM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_R><VK_E><VK_B><Del><VK_A><VK_D><SC><OEM_COMMA><Del><Del><VK_X><Del><Space><VK_W><VK_E><VK_E><PC><VK_I><VK_S><Space><VK_J><VK_U><PC><VK_A><VK_B><PC><VK_H><VK_E><Space><Del><VK_N><Del><VK_R><VK_E><Space>
+Assigned Phrase: 
+"reading week is just about here"
+Real Text Entered: 
+"reading week is just about here "
+WPM: 11.7531831537708
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 11:49:56 AM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_I><PC><Del><Del><Space><VK_A><VK_M><Space><VK_W><VK_E><VK_A><VK_R><SC><VK_D><VK_B><VK_A><Del><Del><Del><VK_A><Space><VK_T><VK_I><VK_E><Space><VK_A><PC><VK_A><PC><Del><Del><Del><Space><VK_J><VK_A><VK_C><TC><Space>
+Assigned Phrase: 
+"I am wearing a tie and a jacket"
+Real Text Entered: 
+"i am wearing a tie and a jacket  "
+WPM: 13.2273364954239
+TER: 0.0967741935483871
+NCER: 0.0967741935483871
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 11:50:37 AM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_H><VK_F><Del><VK_E><VK_A><VK_D><Space><VK_S><VK_H><VK_O><VK_U><PC><Del><VK_E><VK_R><VK_S><Space><Del><Space><VK_K><VK_N><VK_E><VK_E><SC><VK_B><Del><TC><VK_T><VK_O><VK_E><Del><VK_E><SC><Space>
+Assigned Phrase: 
+"head shoulders knees and toes"
+Real Text Entered: 
+"head shoulders knees and toes  "
+WPM: 9.65832381348011
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 11:51:34 AM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_E><VK_L><VK_E><TC><VK_C><VK_A><VK_R><VK_S><Space><VK_N><VK_E><VK_E><PC><VK_B><VK_I><PC><VK_F><VK_U><VK_E><PC><VK_C><VK_E><TC><Del><VK_S><Space>
+Assigned Phrase: 
+"electric cars need big fuel cells"
+Real Text Entered: 
+"electric cars need big fuel cells "
+WPM: 12.0942641173855
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 11:52:16 AM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_A><VK_N><Space><VK_I><VK_N><VK_E><VK_F><VK_F><SC><OEM_COMMA><Del><Del><Space><VK_W><VK_A><SC><VK_T><SC><VK_H><VK_E><VK_A><VK_T><Space><VK_A><Space><VK_H><VK_O><VK_U><PC><Space>
+Assigned Phrase: 
+"an inefficient way to heat a house"
+Real Text Entered: 
+"an inefficient way to heat a house  "
+WPM: 14.0059655038257
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 11:53:18 AM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_A><Space><VK_C><VK_O><VK_U><VK_P><SC><Del><Del><Space><VK_F><PC><VK_A><Space><VK_E><Del><VK_E><Del><VK_E><Del><Del><VK_F><Del><Space><VK_F><TC><VK_S><VK_A><VK_M><SC><Space>
+Assigned Phrase: 
+"a coupon for a free sample"
+Real Text Entered: 
+"a coupon for a free sample  "
+WPM: 11.4812916453101
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 11:53:53 AM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_N><VK_O><Space><VK_E><VK_I><Del><VK_X><TC><OEM_COMMA><Del><Del><VK_W><Del><Space><VK_X><Del><VK_W><VK_I><VK_T><TC><VK_A><Del><VK_A><Space><SC><Del><Del><Del><VK_B><VK_I><SC><Space>
+Assigned Phrase: 
+"no exchange without a bill"
+Real Text Entered: 
+"no exchange without a bill  "
+WPM: 11.6743685070011
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:00:46 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_H><VK_A><PC><VK_R><VK_E><VK_F><VK_E><VK_R><VK_E><VK_N><VK_D><PC><VK_A><VK_S><TC><Del><VK_E><VK_D><Space><VK_A><Space><VK_S><VK_I><VK_L><VK_L><PC><VK_Q><VK_U><SC><Del><Del><Space>
+Assigned Phrase: 
+"that referendum asked a silly question"
+Real Text Entered: 
+"that referendum asked a silly question "
+WPM: 7.51807228915663
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:02:03 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_C><Del><VK_P><VK_L><PC><VK_T><VK_A><PC><VK_A><PC><Del><Del><Del><PC><Del><Del><Del><Del><PC><Del><Del><Del><Del><PC><Del><Del><Del><Del><Space><VK_B><VK_A><VK_T><TC><PC><Del><Del><VK_I><VK_S><Space><VK_M><VK_O><VK_N><SC><Space>
+Assigned Phrase: 
+"please take a bath this month"
+Real Text Entered: 
+"please take a bath this month  "
+WPM: 9.30372148859544
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:02:58 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<PC><VK_D><VK_D><Del><VK_A><VK_R><VK_I><VK_N><PC><VK_Y><VK_O><VK_U><TC><VK_M><VK_A><VK_N><Space>
+Assigned Phrase: 
+"the daring young man"
+Real Text Entered: 
+"the daring young man "
+WPM: 8.57434501531133
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:03:34 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_O><VK_O><Del><VK_N><VK_L><PC><VK_A><VK_N><Space><VK_I><VK_D><VK_O><VK_U><VK_T><Space><VK_W><VK_O><PC><VK_I><Del><VK_L><VK_I><VK_E><Space><VK_E><VK_I><Del><VK_I><Del><Del><VK_I><PC><VK_C><VK_O><VK_U><VK_B><Del><VK_B><VK_B><Del><Del><VK_R><SC><Space>
+Assigned Phrase: 
+"only an idiot would lie in court"
+Real Text Entered: 
+"only an idout would lie in court  "
+WPM: 5.05263157894737
+TER: 0.4375
+NCER: 0.4375
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:05:08 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_W><TC><VK_D><VK_I><VK_N><VK_E><Space><VK_O><VK_U><SC><VK_O><SC><SC><Del><Del><Del><PC><VK_W><VK_E><VK_E><PC><Del><VK_E><VK_N><VK_D><VK_S><Del><TC><Space><Del><Space>
+Assigned Phrase: 
+"we dine out on the weekends"
+Real Text Entered: 
+"we dine out on the weekends  "
+WPM: 11.4451095178583
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:05:48 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_E><Del><VK_C><VK_I><VK_R><TC><VK_A><TC><VK_U><VK_N><VK_A><VK_C><VK_C><PC><Space>
+Assigned Phrase: 
+"circumstances are unacceptable"
+Real Text Entered: 
+"circumstances are unacceptable  "
+WPM: 14.271379195005
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:06:19 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_B><VK_A><VK_D><Space><VK_F><PC><PC><VK_E><VK_N><VK_V><PC><Space>
+Assigned Phrase: 
+"bad for the environment"
+Real Text Entered: 
+"bad for the environment  "
+WPM: 22.2733684757591
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:06:53 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_H><VK_E><Space><VK_E><Del><VK_I><Del><VK_I><SC><VK_S><VK_T><VK_I><PC><VK_C><Del><VK_O><SC><VK_O><VK_U><PC><VK_R><Del><VK_R><Del><VK_T><VK_E><VK_A><PC><Space>
+Assigned Phrase: 
+"he is still on our team"
+Real Text Entered: 
+"he is still on our team  "
+WPM: 8.34422718549217
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:07:35 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_H><VK_D><VK_A><Del><Del><VK_A><VK_N><VK_D><VK_I><SC><VK_E><VK_P><Del><Del><VK_P><VK_E><VK_B><Del><VK_R><TC><Del><VK_S><VK_S><Del><Space><VK_N><VK_E><VK_E><SC><Del><Del><Space><VK_C><VK_O><VK_N><VK_S><TC><Del><Del><Del><VK_A><VK_R><VK_I><VK_O><VK_N><Space>
+Assigned Phrase: 
+"handicapped persons need consideration"
+Real Text Entered: 
+"handicapped persons need considerarion "
+WPM: 8.40411586187081
+TER: 0.0263157894736842
+NCER: 0.0263157894736842
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:08:41 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_E><VK_L><VK_L><Space><VK_A><Space><VK_L><VK_I><VK_E><Space><VK_A><PC><VK_Y><SC><VK_N><VK_O><VK_S><PC><OEM_COMMA><Del><Del><Space><VK_W><VK_I><SC><VK_G><VK_B><Del><VK_R><VK_O><VK_W><Space>
+Assigned Phrase: 
+"tell a lie and your nose will grow"
+Real Text Entered: 
+"tell a lie and your nose will grow "
+WPM: 6.78272665611576
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:11:05 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_A><Del><VK_A><Space><VK_S><VK_U><VK_B><PC><VK_O><VK_N><SC><VK_C><PC><VK_T><Del><VK_R><VK_E><VK_Q><VK_A><Del><Del><VK_A><VK_L><VK_L><PC><VK_E><VK_N><VK_J><PC><Space>
+Assigned Phrase: 
+"a subject one can really enjoy"
+Real Text Entered: 
+"a subject one can really enjoy  "
+WPM: 11.6141910897378
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:14:37 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_R><Del><VK_S><VK_H><VK_A><VK_R><VK_P><Space><VK_C><VK_H><VK_E><VK_E><PC><VK_K><VK_E><VK_E><TC><PC><VK_M><VK_I><VK_N><SC><VK_S><VK_H><VK_A><VK_R><VK_P><Space>
+Assigned Phrase: 
+"sharp cheese keeps the mind sharp"
+Real Text Entered: 
+"sharp cheese keeps the mind sharp "
+WPM: 7.94887780548628
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:15:37 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_W><VK_E><VK_E><VK_P><VK_I><PC><VK_W><VK_I><VK_L><VK_L><VK_O><SC><VK_A><TC><VK_F><VK_O><TC><VK_N><VK_E><VK_A><PC><VK_W><VK_A><VK_U><Del><VK_T><PC><Space>
+Assigned Phrase: 
+"weeping willows are found near water"
+Real Text Entered: 
+"weeping willows are found near water  "
+WPM: 10.7570003066689
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:16:25 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_P><VK_P><Del><VK_E><VK_E><VK_K><Space><VK_O><VK_I><VK_I><Del><Del><VK_U><SC><PC><VK_W><VK_I><VK_N><SC><Space>
+Assigned Phrase: 
+"peek out the window"
+Real Text Entered: 
+"peek out the window  "
+WPM: 13.4961439588689
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:17:34 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_I><Space><VK_J><PC><VK_C><VK_A><VK_N><VK_N><VK_O><VK_T><VK_T><Del><Space><VK_F><VK_D><Del><VK_I><VK_G><PC><VK_W><Del><VK_T><VK_H><TC><VK_O><VK_U><SC><Space>
+Assigned Phrase: 
+"I just cannot figure this out"
+Real Text Entered: 
+"i just cannot figure this out  "
+WPM: 10.3736754043503
+TER: 0.103448275862069
+NCER: 0.103448275862069
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:18:17 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_A><TC><VK_Y><VK_O><PC><VK_S><VK_U><VK_R><PC><VK_Y><PC><VK_W><VK_A><TC><VK_T><VK_I><Del><VK_H><TC><Space>
+Assigned Phrase: 
+"are you sure you want this"
+Real Text Entered: 
+"are you sure you want this  "
+WPM: 10.6826057927702
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:18:58 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_Y><OEM_PERIOD><Del><Del><Del><VK_Y><PC><VK_H><PC><VK_M><SC><VK_S><VK_Y><VK_M><VK_P><VK_A><PC><Space>
+Assigned Phrase: 
+"you have my sympathy"
+Real Text Entered: 
+"you have my sympathy  "
+WPM: 8.41434262948207
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:19:34 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_J><VK_O><VK_I><PC><VK_U><PC><VK_O><SC><PC><VK_P><VK_A><VK_T><VK_I><VK_O><Space>
+Assigned Phrase: 
+"join us on the patio"
+Real Text Entered: 
+"join us on the patio "
+WPM: 10.3917525773196
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:23:49 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_H><Del><VK_A><VK_L><VK_L><Space><VK_Y><Del><VK_Y><Del><VK_G><TC><VK_B><VK_O><VK_Y><SC><VK_D><VK_E><VK_S><VK_E><SC><VK_H><Del><VK_F><VK_F><Del><VK_U><OEM_COMMA><Del><Del><VK_D><VK_G><VK_E><Space>
+Assigned Phrase: 
+"all good boys deserve fudge"
+Real Text Entered: 
+"all good boys deserve fudge "
+WPM: 3.74373259052925
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:25:29 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_E><Del><Del><VK_N><VK_E><VK_V><VK_V><Del><VK_E><PC><VK_M><VK_I><VK_X><Del><VK_X><Space><VK_R><VK_E><VK_L><VK_I><PC><VK_A><PC><VK_P><VK_O><VK_L><VK_I><VK_T><SC><Space>
+Assigned Phrase: 
+"never mix religion and politics"
+Real Text Entered: 
+"never mix religion and politics  "
+WPM: 9.99369085173502
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:26:12 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_Q><SC><Del><Del><Del><VK_N><Space><VK_T><TC><VK_M><VK_U><VK_P><Del><SC><VK_B><SC><VK_A><VK_N><VK_S><TC><Space>
+Assigned Phrase: 
+"question that must be answered"
+Real Text Entered: 
+"question that must be answered  "
+WPM: 12.1966713251175
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:26:53 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<PC><VK_W><VK_O><SC><VK_I><SC><VK_F><Del><VK_A><Space><VK_S><VK_T><VK_A><VK_G><PC><Space>
+Assigned Phrase: 
+"the world is a stage"
+Real Text Entered: 
+"the world is a stage  "
+WPM: 15.0316005238285
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:27:25 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_O><Del><VK_E><VK_L><VK_E><SC><VK_S><Del><Del><Del><Del><Del><Del><VK_I><VK_C><Space><VK_C><VK_A><SC><Del><VK_S><Space><VK_N><VK_E><VK_E><PC><VK_B><VK_O><Del><VK_I><PC><VK_F><VK_U><VK_E><PC><VK_C><VK_E><VK_I><VK_I><Del><Del><VK_L><VK_L><SC><Del><Space>
+Assigned Phrase: 
+"electric cars need big fuel cells"
+Real Text Entered: 
+"electric cars need big fuel cells "
+WPM: 8.99173553719008
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:28:17 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<OEM_PERIOD><Del><Del><PC><VK_S><VK_T><VK_O><SC><VK_E><VK_X><TC><VK_D><VK_D><Del><VK_I><VK_P><VK_P><VK_E><PC><Space>
+Assigned Phrase: 
+"the stock exchange dipped"
+Real Text Entered: 
+"the stock exchange dipped  "
+WPM: 11.2270002425586
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:28:50 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_B><VK_A><PC><VK_E><Del><VK_T><VK_R><VK_A><VK_N><VK_S><VK_A><SC><VK_W><VK_A><PC><VK_N><PC><VK_R><VK_E><VK_Y><VK_I><Del><Del><VK_G><VK_I><TC><Space>
+Assigned Phrase: 
+"bank transaction was not registered"
+Real Text Entered: 
+"back transaction was not registered  "
+WPM: 12.8695652173913
+TER: 0.428571428571429
+NCER: 0.428571428571429
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:29:32 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_H><SC><VK_I><SC><VK_A><SC><VK_V><VK_E><PC><VK_O><VK_D><VK_D><Space><VK_C><Del><VK_Q><SC><Del><Del><Space>
+Assigned Phrase: 
+"that is a very odd question"
+Real Text Entered: 
+"that is a very odd question "
+WPM: 17.5686274509804
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:30:01 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_N><TC><VK_E><VK_X><TC><VK_W><VK_I><VK_X><Del><VK_T><TC><VK_A><Space><VK_B><VK_I><SC><Space>
+Assigned Phrase: 
+"no exchange without a bill"
+Real Text Entered: 
+"no exchange without a bill  "
+WPM: 11.6234822015429
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:30:39 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_O><VK_S><VK_E><Del><VK_S><Space><PC><VK_B><VK_A><VK_L><VK_L><Space><VK_A><VK_R><VK_O><PC><Space>
+Assigned Phrase: 
+"toss the ball around"
+Real Text Entered: 
+"toss the ball around  "
+WPM: 13.047346051201
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:31:06 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_G><Del><VK_B><SC><VK_E><Del><VK_H><SC><VK_B><OEM_COMMA><Del><Del><VK_B><VK_E><VK_F><PC><VK_M><VK_I><VK_D><TC><Space>
+Assigned Phrase: 
+"be home before midnight"
+Real Text Entered: 
+"be home before midnight  "
+WPM: 13.8127906441365
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:31:39 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_T><Del><VK_R><VK_A><VK_V><TC><VK_R><VK_E><VK_Q><VK_U><VK_I><VK_I><Del><TC><Del><VK_S><Space><VK_A><Space><VK_L><VK_O><VK_T><Space><VK_O><PC><VK_A><VK_F><Del><Del><VK_F><VK_U><VK_E><PC><VK_H><Space><Del><Del><Space>
+Assigned Phrase: 
+"traveling requires a lot of fuel"
+Real Text Entered: 
+"traveling requires a lot of fuel  "
+WPM: 9.9626400996264
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:33:05 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_O><VK_N><Space><PC><VK_W><VK_A><SC><VK_T><SC><PC><VK_O><Del><Del><Space><VK_C><VK_O><VK_T><VK_T><SC><Space>
+Assigned Phrase: 
+"on the way to the cottage"
+Real Text Entered: 
+"on the way to the cottage  "
+WPM: 18.4815469739319
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:33:30 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_V><VK_A><VK_N><VK_I><VK_L><VK_L><PC><VK_F><VK_L><VK_A><VK_V><TC><Del><VK_E><VK_D><Space><VK_I><VK_C><PC><VK_C><VK_R><VK_E><VK_A><VK_M><Space>
+Assigned Phrase: 
+"vanilla flavored ice cream"
+Real Text Entered: 
+"vanilla flavoured ice cream "
+WPM: 8.76986923498551
+TER: 0.0370370370370371
+NCER: 0.0370370370370371
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:34:14 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_M><VK_E><SC><Del><Del><Del><Del><Del><Del><Del><Del><VK_M><SC><VK_F><VK_I><VK_N><VK_G><SC><VK_A><TC><VK_V><TC><VK_C><VK_O><VK_L><VK_D><Space>
+Assigned Phrase: 
+"my fingers are very cold"
+Real Text Entered: 
+"my fingers are very cold "
+WPM: 12.237405669998
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:34:47 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_J><PC><VK_W><VK_H><PC><PC><VK_D><VK_O><VK_C><VK_X><Del><VK_T><PC><VK_O><VK_R><VK_D><PC><Del><VK_E><VK_D><Space>
+Assigned Phrase: 
+"just what the doctor ordered"
+Real Text Entered: 
+"just what the doctor ordered "
+WPM: 13.7821782178218
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:35:26 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<PC><VK_D><VK_T><Del><VK_O><VK_G><Space><VK_W><VK_I><SC><VK_B><VK_I><VK_T><VK_E><Space><VK_Y><PC><Space>
+Assigned Phrase: 
+"the dog will bite you"
+Real Text Entered: 
+"the dog will bite you  "
+WPM: 14.097456328532
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:35:52 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_H><TC><VK_E><VK_Q><VK_U><VK_A><SC><VK_I><SC><VK_T><VK_O><VK_O><Space><VK_C><VK_O><VK_M><VK_P><VK_L><VK_I><SC><Space>
+Assigned Phrase: 
+"this equation is too complicated"
+Real Text Entered: 
+"this equation is too complicated  "
+WPM: 13.0689644126974
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:36:33 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_H><TC><VK_A><VK_S><VK_S><VK_E><Del><VK_I><VK_G><SC><VK_I><SC><VK_D><VK_U><SC><VK_H><Del><VK_T><VK_O><TC><SC><Del><Del><Del><Space>
+Assigned Phrase: 
+"the assignment is due today"
+Real Text Entered: 
+"this assignment is due today  "
+WPM: 15.431437266921
+TER: 0.535714285714286
+NCER: 0.535714285714286
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 12:37:03 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_I><VK_N><VK_T><VK_E><TC><Del><VK_I><VK_N><VK_G><Space><VK_O><VK_B><VK_S><VK_E><VK_R><TC><VK_W><VK_S><Del><VK_A><PC><VK_M><VK_A><VK_D><VK_Y><Space>
+Assigned Phrase: 
+"interesting observation was made"
+Real Text Entered: 
+"interesting observation was mady "
+WPM: 11.3851992409867
+TER: 0.03125
+NCER: 0.03125

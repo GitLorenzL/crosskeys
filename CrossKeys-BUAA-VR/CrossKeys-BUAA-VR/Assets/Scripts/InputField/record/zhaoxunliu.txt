@@ -1,0 +1,224 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 4:45:28 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<PC><VK_F><VK_A><SC><VK_M><VK_A><VK_C><PC><VK_I><SC><VK_B><VK_R><VK_R><Del><VK_O><VK_K><PC><Space>
+Assigned Phrase: 
+"the fax machine is broken"
+Real Text Entered: 
+"the fax machine is broken  "
+WPM: 18.7826086956522
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 4:46:01 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_O><SC><PC><VK_J><Del><VK_W><VK_A><SC><VK_T><SC><PC><VK_C><VK_O><VK_T><VK_T><SC><Space>
+Assigned Phrase: 
+"on the way to the cottage"
+Real Text Entered: 
+"on the way to the cottage  "
+WPM: 23.4053312143322
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 4:46:41 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_A><Space><VK_S><VK_E><VK_C><VK_U><PC><VK_F><VK_O><VK_R><VK_C><PC><SC><VK_E><VK_I><SC><VK_T><VK_H><VK_O><VK_U><TC><Del><Del><Space>
+Assigned Phrase: 
+"a security force of eight thousand"
+Real Text Entered: 
+"a security force of eight thousand "
+WPM: 21.0326005308228
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 4:47:17 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_W><TC><VK_R><VK_U><PC><PC><VK_R><VK_I><TC><SC><VK_F><VK_A><VK_I><TC><Space>
+Assigned Phrase: 
+"we run the risk of failure"
+Real Text Entered: 
+"we run the risk of failure  "
+WPM: 25.6
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 4:47:35 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_M><SC><VK_F><VK_A><VK_V><PC><VK_P><VK_L><SC><VK_T><SC><VK_V><VK_I><TC><Space>
+Assigned Phrase: 
+"my favorite place to visit"
+Real Text Entered: 
+"my favorite place to visit  "
+WPM: 25.1214953271028
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 4:47:55 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_R><VK_C><Del><VK_A><VK_I><VK_N><VK_D><VK_R><VK_O><VK_P><VK_S><Space><VK_K><VK_E><SC><VK_F><VK_A><VK_L><VK_L><TC><VK_O><SC><VK_M><SC><VK_H><VK_E><VK_E><Del><VK_A><SC><Space>
+Assigned Phrase: 
+"raindrops keep falling on my head"
+Real Text Entered: 
+"raindrops keep falling on my head  "
+WPM: 16.1930832401588
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 4:48:33 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_F><VK_I><VK_S><PC><VK_A><TC><VK_J><VK_U><VK_M><SC><Space>
+Assigned Phrase: 
+"fish are jumping"
+Real Text Entered: 
+"fish are jumping  "
+WPM: 23.4298730881874
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 4:49:03 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_Q><VK_U><Del><Del><VK_O><VK_U><PC><VK_F><VK_A><SC><VK_N><VK_U><VK_M><PC><VK_H><TC><VK_C><VK_H><VK_A><VK_N><VK_G><VK_E><VK_D><Space>
+Assigned Phrase: 
+"our fax number has changed"
+Real Text Entered: 
+"our fax number has changed "
+WPM: 14.5513338722716
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:25:38 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_R><VK_E><VK_C><VK_T><PC><VK_O><VK_B><VK_J><SC><VK_H><VK_A><PC><VK_F><VK_O><VK_U><PC><VK_S><VK_I><VK_D><SC><Space>
+Assigned Phrase: 
+"rectangular objects have four sides"
+Real Text Entered: 
+"rectangular objects have found sides  "
+WPM: 14.8292682926829
+TER: 0.0833333333333334
+NCER: 0.0833333333333334
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:26:30 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_M><SC><VK_M><VK_O><VK_O><Del><VK_T><PC><OEM_PERIOD><VK_A><Del><Del><Del><Space><VK_M><VK_A><VK_K><TC><VK_G><VK_O><VK_O><PC><VK_C><VK_O><VK_O><VK_N><VK_I><Del><Del><VK_K><VK_I><SC><Space>
+Assigned Phrase: 
+"my mother makes good cookies"
+Real Text Entered: 
+"my mother makes good cookies  "
+WPM: 10.0217137130449
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:27:23 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_S><VK_H><VK_A><PC><VK_W><TC><VK_P><VK_L><VK_A><TC><VK_A><Space><VK_R><VK_O><VK_U><PC><SC><VK_C><VK_A><VK_R><VK_U><Del><VK_D><SC><Space>
+Assigned Phrase: 
+"shall we play a round of cards"
+Real Text Entered: 
+"shall we play a round of cards  "
+WPM: 11.1255975662755
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:28:07 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<PC><VK_K><VK_I><VK_N><SC><VK_S><VK_E><VK_N><VK_D><VK_S><Space><VK_Y><VK_O><PC><VK_T><SC><PC><VK_T><VK_O><VK_W><VK_E><PC><Space>
+Assigned Phrase: 
+"the king sends you to the tower"
+Real Text Entered: 
+"the king sends you to the tower  "
+WPM: 11.5408154343835
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:30:16 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_N><VK_O><Space><VK_E><VK_X><TC><VK_W><VK_I><OEM_COMMA><Del><Del><VK_T><VK_H><VK_O><VK_U><VK_T><Space><VK_A><Space><VK_B><VK_I><SC><Space>
+Assigned Phrase: 
+"no exchange without a bill"
+Real Text Entered: 
+"no exchange without a bill  "
+WPM: 12.246236833473
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:30:59 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<PC><VK_P><VK_E><VK_N><Space><VK_I><SC><VK_M><VK_I><VK_G><VK_H><VK_T><VK_I><VK_E><VK_R><Space><OEM_COMMA><Del><Del><VK_T><VK_H><VK_A><SC><PC><VK_S><VK_W><VK_O><PC><Space>
+Assigned Phrase: 
+"the pen is mightier than the sword"
+Real Text Entered: 
+"the pen is mightier than the sword  "
+WPM: 10.1422735596563
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:31:50 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_D><VK_O><VK_R><VK_M><VK_I><VK_T><VK_O><VK_R><VK_Y><Space><VK_D><VK_O><VK_O><SC><VK_A><TC><VK_L><VK_O><VK_C><VK_K><SC><VK_A><VK_T><Space><VK_M><VK_I><VK_D><TC><Space>
+Assigned Phrase: 
+"dormitory doors are locked at midnight"
+Real Text Entered: 
+"dormitory doors are locked at midnight  "
+WPM: 9.7803496474999
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:32:49 PM
+User: Zhaoxun Liu, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_T><VK_R><TC><VK_T><VK_T><Del><SC><VK_E><VK_N><VK_J><PC><VK_Y><VK_O><SC><VK_M><VK_A><VK_T><VK_E><VK_R><TC><VK_L><VK_E><VK_A><VK_V><PC><Space>
+Assigned Phrase: 
+"try to enjoy your maternity leave"
+Real Text Entered: 
+"try to enjoy your maternity leave  "
+WPM: 12.5257224657779
+TER: 0
+NCER: 0

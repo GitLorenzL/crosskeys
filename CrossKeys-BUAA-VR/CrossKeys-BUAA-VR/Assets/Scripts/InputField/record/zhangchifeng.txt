@@ -1,0 +1,170 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:09:43 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_P><VK_R><VK_E><VK_S><VK_C><PC><OEM_COMMA><Del><Del><Space><VK_D><VK_R><SC><Del><VK_S><Space><VK_R><VK_E><VK_Q><PC><Del><Del><Del><VK_E><Space><VK_A><Space><VK_N><VK_O><PC><Del><VK_E><Space>
+Assigned Phrase: 
+"prescription drugs require a note"
+Real Text Entered: 
+"prescription drugs require a note "
+WPM: 5.54988777800449
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:11:48 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_A><Space><VK_D><VK_O><VK_G><Space><VK_I><SC><VK_T><PC><VK_B><VK_E><TC><VK_A><Space><Del><Del><VK_F><VK_R><TC><VK_O><PC><PC><Space><Del><Del><Del><Del><Del><VK_A><Space><VK_M><VK_A><VK_N><Space>
+Assigned Phrase: 
+"a dog is the best friend of a man"
+Real Text Entered: 
+"a dog is the best friend of a man "
+WPM: 5.54988777800449
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:15:04 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_I><VK_F><Space><VK_Y><VK_O><PC><VK_C><VK_O><VK_O><Del><VK_M><VK_E><Space><VK_H><SC><VK_L><VK_A><VK_T><TC><PC><VK_D><VK_O><VK_O><PC><Del><VK_S><Space><VK_R><Del><VK_A><VK_R><PC><VK_I><Del><VK_L><VK_O><VK_C><VK_K><VK_E><VK_D><Space>
+Assigned Phrase: 
+"if you come home late the doors are locked"
+Real Text Entered: 
+"if you come home late the doors are locked "
+WPM: 4.46873186742762
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:17:05 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_D><VK_I><VK_D><Space><VK_Y><PC><Del><VK_S><Space><Del><Del><Space><VK_S><VK_E><VK_E><Space><VK_T><TC><VK_S><VK_P><VK_E><VK_C><VK_T><SC><VK_E><VK_X><VK_P><VK_L><VK_O><VK_S><PC><Space>
+Assigned Phrase: 
+"did you see that spectacular explosion"
+Real Text Entered: 
+"did you see that spectacular explosion  "
+WPM: 5.47982738543736
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:23:53 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_H><VK_E><Space><VK_P><VK_L><VK_A><VK_Y><VK_E><VK_D><Space><VK_A><VK_P><Del><Space><VK_P><VK_I><VK_M><VK_P><Del><VK_P><Space><VK_I><PC><VK_T><VK_H><VK_A><VK_W><Del><PC><VK_M><VK_O><VK_V><SC><Space>
+Assigned Phrase: 
+"he played a pimp in that movie"
+Real Text Entered: 
+"he played a pimp in that movie  "
+WPM: 3.25724610021121
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:26:04 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<SC><Space><Del><Del><Del><Del><VK_A><VK_L><VK_W><PC><VK_C><VK_O><VK_V><PC><VK_A><VK_J><VK_K><Del><Del><VK_L><VK_L><Space><PC><VK_B><SC><Del><Del><VK_D><Del><VK_A><VK_S><VK_E><VK_S><Space>
+Assigned Phrase: 
+"always cover all the bases"
+Real Text Entered: 
+"always cover all the bases "
+WPM: 4.19081125827815
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:27:28 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_Y><OEM_COMMA><Del><Del><VK_W><Del><Del><VK_Y><PC><VK_D><SC><Del><Del><Del><Del><Del><VK_A><TC><VK_A><Space><VK_C><VK_A><VK_P><SC><Del><Del><Del><Del><Del><Del><VK_I><VK_T><VK_A><VK_J><Space><Del><Del><VK_M><Del><VK_N><Del><VK_L><VK_I><VK_S><VK_T><Space><VK_P><VK_I><VK_G><Space>
+Assigned Phrase: 
+"you are a capitalist pig"
+Real Text Entered: 
+"you are a capitalist pig "
+WPM: 2.71800679501699
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:29:32 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_G><VK_A><VK_S><Space><VK_B><VK_I><VK_L><VK_L><VK_S><Space><VK_D><Del><Space><Del><VK_A><VK_A><Space><Del><Del><VK_R><VK_E><Space><VK_S><VK_E><VK_H><Del><VK_N><VK_T><Space><VK_K><Del><VK_K><Del><VK_K><Del><VK_H><Del><Del><Space><VK_M><VK_M><Space><Del><Del><VK_O><VK_N><VK_T><VK_H><VK_L><VK_Y><Space>
+Assigned Phrase: 
+"gas bills are sent monthly"
+Real Text Entered: 
+"gas bills are sent monthly "
+WPM: 2.88600288600289
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:35:18 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<OEM_PERIOD><OEM_PERIOD><Del><Del><Del><Del><Del><VK_T><VK_O><VK_S><VK_S><Space><PC><VK_B><VK_A><VK_L><VK_L><Space><VK_B><Del><VK_B><Del><VK_B><Del><VK_A><OEM_COMMA><VK_I><OEM_PERIOD><VK_I><OEM_PERIOD><Del><Del><Del><Del><Del><Del><Del><Del><Del><VK_A><VK_R><VK_O><VK_U><PC><Space>
+Assigned Phrase: 
+"toss the ball around"
+Real Text Entered: 
+"toss the ball around  "
+WPM: 4.31125990038377
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:36:29 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_F><VK_I><VK_L><VK_E><VK_B><Del><Space><VK_A><VK_L><VK_L><Space><VK_C><VK_O><VK_M><VK_P><VK_L><VK_B><Space><Del><Del><VK_A><VK_I><VK_N><VK_T><VK_S><Space><VK_I><PC><VK_W><VK_R><TC><Space>
+Assigned Phrase: 
+"file all complaints in writing"
+Real Text Entered: 
+"file all complaints in writing  "
+WPM: 5.59310184106269
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:37:47 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_M><Del><PC><VK_C><Del><PC><Del><Del><Del><Del><VK_D><VK_A><VK_R><VK_I><PC><VK_Y><PC><Del><VK_N><VK_G><Space><VK_M><VK_C><Del><VK_A><VK_N><Space>
+Assigned Phrase: 
+"the daring young man"
+Real Text Entered: 
+"the daring young man "
+WPM: 4.9547778214707
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:38:52 PM
+User: Zhangchi Feng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_J><VK_U><VK_S><VK_T><Space><VK_W><VK_H><PC><PC><VK_D><VK_O><VK_C><VK_T><PC><VK_K><Del><VK_O><VK_P><Del><VK_R><VK_L><Space><Del><Del><Del><Del><VK_O><VK_R><SC><Del><VK_E><VK_D><Space>
+Assigned Phrase: 
+"just what the doctor ordered"
+Real Text Entered: 
+"just what the doctor ordered "
+WPM: 4.77733238152765
+TER: 0
+NCER: 0

@@ -1,0 +1,252 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:49:26 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<OEM_PERIOD><Del><PC><VK_V><PC><Del><Del><Del><OEM_PERIOD><OEM_PERIOD><OEM_PERIOD><OEM_PERIOD><OEM_PERIOD><OEM_PERIOD><OEM_PERIOD><OEM_PERIOD><OEM_PERIOD><VK_O><VK_E><VK_E><VK_E><VK_I><Del><OEM_COMMA><Del><SC><TC><VK_J><VK_E><VK_E><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><VK_B><SC><VK_D><VK_E><VK_D><Del><Del><VK_D><Del><VK_I><VK_S><VK_V><OEM_PERIOD><Del><Del><Del><VK_C><VK_R><VK_R><Del><VK_E><VK_E><VK_R><Del><VK_T><VK_Y><Del><Space><VK_A><VK_B><PC><VK_Y><VK_O><VK_H><VK_E><VK_E><VK_E><VK_E><VK_E><VK_E><VK_E><Del><Del><Del><Del><Del><Del><Del><Del><SC><VK_M><VK_E><VK_E><VK_B><Del><PC><VK_E><Del><Space>
+Assigned Phrase: 
+"be discreet about your meeting"
+Real Text Entered: 
+"be discreet about your meeting  "
+WPM: 1.61027219470875
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:53:33 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<OEM_COMMA><Del><Del><VK_O><VK_U><SC><VK_F><VK_Z><VK_S><VK_D><Del><VK_D><Del><Del><Del><VK_E><Del><VK_E><Del><VK_A><SC><VK_D><VK_I><Del><Del><VK_N><VK_U><PC><VK_H><TC><VK_J><Del><VK_C><VK_H><SC><VK_D><Del><Del><VK_D><OEM_PERIOD><Del><Del><VK_D><Space>
+Assigned Phrase: 
+"our fax number has changed"
+Real Text Entered: 
+"out fax number has changed "
+WPM: 3.76678486310527
+TER: 0.153846153846154
+NCER: 0.153846153846154
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:55:04 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_O><VK_N><TC><VK_A><VK_N><VK_O><VK_O><VK_O><VK_O><Del><Del><Del><Del><Space><VK_I><VK_E><VK_E><Del><Del><VK_D><VK_I><PC><OEM_COMMA><Del><Del><Space><OEM_COMMA><Del><Del><VK_W><VK_O><PC><VK_L><VK_I><VK_E><Space><VK_I><VK_N><Space><VK_C><VK_O><VK_U><VK_U><Del><VK_E><Del><VK_E><VK_R><Del><Del><VK_R><SC><Del><Space>
+Assigned Phrase: 
+"only an idiot would lie in court"
+Real Text Entered: 
+"only an idiot would lie in court "
+WPM: 3.42765145285681
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:57:21 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_I><Space><VK_H><VK_A><PC><VK_B><VK_A><VK_K><SC><VK_L><VK_L><VK_I><VK_E><VK_S><Space>
+Assigned Phrase: 
+"I hate baking pies"
+Real Text Entered: 
+"i have baking llies "
+WPM: 5.47982738543736
+TER: 0.315789473684211
+NCER: 0.315789473684211
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:58:25 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_C><VK_I><VK_R><TC><VK_A><TC><VK_U><VK_N><VK_A><VK_C><VK_C><PC><Space>
+Assigned Phrase: 
+"circumstances are unacceptable"
+Real Text Entered: 
+"circumstances are unacceptable  "
+WPM: 13.8378378378378
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 5:59:53 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_W><VK_E><Space><VK_P><VK_A><VK_R><TC><VK_I><VK_N><VK_D><Del><Space><VK_D><VK_R><VK_I><VK_V><VK_E><VK_W><SC><Space><Del><Del><VK_A><VK_Y><VK_S><Space>
+Assigned Phrase: 
+"we park in driveways"
+Real Text Entered: 
+"we park in driveways "
+WPM: 4.4029772512842
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:00:57 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_N><VK_O><VK_T><VK_H><TC><VK_W><VK_R><VK_O><SC><VK_W><VK_I><PC><VK_H><VK_I><VK_S><VK_E><Del><OEM_COMMA><Del><Del><Del><VK_I><VK_S><Space><VK_S><VK_I><Del><OEM_COMMA><Del><Del><VK_T><VK_Y><VK_L><VK_E><Space>
+Assigned Phrase: 
+"nothing wrong with his style"
+Real Text Entered: 
+"nothce wrong with his style "
+WPM: 5.69047860989737
+TER: 0.703703703703704
+NCER: 0.703703703703704
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:04:03 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_M><VK_O><VK_M><Space><VK_M><VK_A><VK_D><VK_E><Space><VK_H><VK_E><VK_R><Space><VK_A><Space><VK_T><VK_U><VK_R><VK_T><VK_L><OEM_COMMA><Del><Del><VK_E><VK_N><VK_E><VK_C><VK_K><Space>
+Assigned Phrase: 
+"mom made her a turtleneck"
+Real Text Entered: 
+"mom made her a turtleneck "
+WPM: 4.06101942000312
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:05:31 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_A><VK_K><VK_I><PC><PC><VK_I><Del><VK_T><VK_R><VK_A><VK_I><SC><VK_I><VK_S><Space><VK_U><VK_S><VK_U><VK_E><Del><VK_A><PC><VK_F><VK_A><VK_S><TC><Space>
+Assigned Phrase: 
+"taking the train is usually faster"
+Real Text Entered: 
+"taking the train is usually faster  "
+WPM: 7.57071255826995
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:07:30 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_S><VK_T><VK_A><VK_Y><Space><VK_A><VK_W><VK_A><PC><VK_F><VK_R><PC><VK_S><VK_T><VK_R><VK_E><Del><VK_A><VK_N><VK_G><VK_E><VK_R><VK_S><Space>
+Assigned Phrase: 
+"stay away from strangers"
+Real Text Entered: 
+"stay away from strangers "
+WPM: 6.02071124668861
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:08:42 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_O><VK_N><VK_E><Space><VK_H><VK_E><VK_C><VK_K><Space><VK_Q><VK_F><Space><VK_A><Space><VK_Q><VK_U><VK_E><SC><Space>
+Assigned Phrase: 
+"one heck of a question"
+Real Text Entered: 
+"one heck qf a question  "
+WPM: 10.8169014084507
+TER: 0.5
+NCER: 0.5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:09:20 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_I><Space><VK_W><VK_I><SC><VK_P><VK_U><VK_T><Space><VK_O><VK_N><Space><VK_M><VK_Y><Space><VK_G><VK_L><VK_B><Del><VK_E><Del><VK_A><VK_S><VK_S><SC><Space>
+Assigned Phrase: 
+"I will put on my glasses"
+Real Text Entered: 
+"i will put on my glasses  "
+WPM: 9.04767428372579
+TER: 0.0833333333333334
+NCER: 0.0833333333333334
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:10:04 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_F><VK_I><VK_S><VK_H><Space><VK_A><VK_R><VK_E><Space><VK_J><VK_U><VK_M><SC><Space>
+Assigned Phrase: 
+"fish are jumping"
+Real Text Entered: 
+"fish are jumping  "
+WPM: 8.80518527577351
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:12:47 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<PC><VK_B><VK_I><Del><VK_U><VK_S><Space><VK_W><VK_A><VK_S><Space><VK_V><VK_E><VK_R><VK_Y><Space><VK_C><VK_R><VK_O><TC><Del><VK_E><VK_U><Del><OEM_COMMA><OEM_COMMA><Del><Del><Del><VK_E><OEM_COMMA><Del><Del><Del><Del><VK_E><VK_D><Space>
+Assigned Phrase: 
+"the bus was very crowded"
+Real Text Entered: 
+"the bus was very crowded "
+WPM: 4.70359511453254
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:15:34 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_W><VK_E><Space><VK_H><VK_A><PC><VK_E><VK_N><VK_O><TC><VK_W><VK_I><VK_T><VK_N><SC><Space>
+Assigned Phrase: 
+"we have enough witnesses"
+Real Text Entered: 
+"we have enom witnesses  "
+WPM: 7.29686589475284
+TER: 0.363636363636364
+NCER: 0.363636363636364
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:16:23 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_W><VK_E><VK_E><VK_P><PC><VK_B><VK_W><VK_I><Del><Del><Del><VK_W><VK_I><VK_L><VK_L><VK_O><SC><VK_A><TC><VK_I><Del><VK_F><VK_O><VK_U><PC><OEM_COMMA><Del><Del><VK_N><Del><Space><VK_N><VK_E><VK_A><VK_R><Space><VK_W><VK_A><VK_T><VK_Y><Del><VK_E><VK_R><Space>
+Assigned Phrase: 
+"weeping willows are found near water"
+Real Text Entered: 
+"weeping willows are found near water "
+WPM: 5.98867008362557
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:18:24 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_A><Space><VK_C><VK_O><VK_R><VK_R><TC><Del><Del><Space><VK_H><VK_A><TC><VK_T><VK_O><Space><VK_B><VK_E><Space><VK_P><VK_U><TC><Space>
+Assigned Phrase: 
+"a correction had to be published"
+Real Text Entered: 
+"a correction had to be published  "
+WPM: 9.47449086222511
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 6:19:15 PM
+User: Chenyu Gu, 20, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_S><VK_T><VK_A><VK_Y><VK_B><Del><TC><VK_U><SC><VK_A><VK_L><VK_L><Space><VK_N><VK_I><PC><VK_I><VK_S><Space><VK_A><Space><VK_B><VK_A><OEM_COMMA><Del><Del><OEM_COMMA><Space><Del><Del><Del><VK_D><Space><VK_I><VK_D><VK_E><VK_A><Space>
+Assigned Phrase: 
+"staying up all night is a bad idea"
+Real Text Entered: 
+"staying up all night is a bad idea "
+WPM: 7.2044873664168
+TER: 0
+NCER: 0

@@ -1,0 +1,340 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:28:49 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_D><VK_O><VK_L><VK_P><SC><VK_L><VK_E><VK_A><VK_P><TC><VK_H><VK_I><SC><VK_O><VK_U><SC><SC><PC><VK_W><VK_A><VK_T><PC><Space>
+Assigned Phrase: 
+"dolphins leap high out of the water"
+Real Text Entered: 
+"dolphins leapfrog high out of the water  "
+WPM: 14.1265648328931
+TER: 0.282051282051282
+NCER: 0.282051282051282
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:29:34 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_W><VK_H><VK_E><SC><VK_D><VK_I><PC><VK_Y><PC><VK_G><PC><VK_S><VK_U><PC><VK_A><SC><VK_S><VK_I><VK_L><VK_L><PC><VK_I><VK_D><TC><Space>
+Assigned Phrase: 
+"where did you get such a silly idea"
+Real Text Entered: 
+"where did you get such a silly idea  "
+WPM: 13.1555555555556
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:30:17 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_T><VK_H><TC><VK_I><SC><VK_T><VK_O><VK_O><SC><VK_M><VK_U><TC><VK_T><SC><VK_H><VK_A><VK_N><TC><Space>
+Assigned Phrase: 
+"this is too much to handle"
+Real Text Entered: 
+"this is too much to handle  "
+WPM: 11.8347363601141
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:30:54 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_A><SC><VK_G><VK_O><VK_O><PC><VK_R><VK_E><VK_S><VK_P><PC><VK_T><SC><PC><VK_I><VK_Q><Del><Del><VK_Q><SC><Del><Del><Space>
+Assigned Phrase: 
+"a good response to the question"
+Real Text Entered: 
+"a good response to the question "
+WPM: 14.0917431192661
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:31:36 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<PC><VK_F><VK_O><VK_U><SC><VK_S><VK_E><VK_A><VK_S><SC><VK_W><VK_I><SC><VK_C><VK_O><VK_M><VK_E><Space>
+Assigned Phrase: 
+"the four seasons will come"
+Real Text Entered: 
+"the four seasons will come "
+WPM: 14.0205114890303
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:32:17 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<PC><VK_S><VK_U><VK_N><PC><VK_R><VK_I><VK_S><VK_E><SC><VK_I><PC><PC><VK_E><VK_A><VK_S><PC><Space>
+Assigned Phrase: 
+"the sun rises in the east"
+Real Text Entered: 
+"the sun rises in the east  "
+WPM: 16.5890123393579
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:32:46 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_U><VK_N><VK_I><VK_V><SC><Del><VK_L><VK_Y><Space><VK_U><VK_N><VK_D><VK_E><VK_R><VK_S><TC><VK_T><SC><VK_B><SC><VK_W><VK_R><VK_O><SC><Space>
+Assigned Phrase: 
+"universally understood to be wrong"
+Real Text Entered: 
+"universally understood to be wrong  "
+WPM: 9.462064131768
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:33:41 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Freq
+Entry Tokens: 
+<VK_T><VK_E><VK_L><PC><VK_A><SC><VK_L><VK_I><VK_E><SC><VK_A><PC><VK_Y><SC><VK_N><VK_O><VK_S><PC><VK_W><VK_I><SC><VK_G><VK_R><VK_O><VK_W><Space>
+Assigned Phrase: 
+"tell a lie and your nose will grow"
+Real Text Entered: 
+"tell a lie and your nose will grow "
+WPM: 11.6211504938989
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:44:22 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_T><VK_H><TC><VK_P><VK_H><VK_E><SC><VK_W><VK_I><VK_L><PC><VK_N><VK_E><VK_V><PC><VK_O><VK_C><VK_C><PC><Space>
+Assigned Phrase: 
+"this phenomenon will never occur"
+Real Text Entered: 
+"this phenomenon will never occur  "
+WPM: 14.1455465797594
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:46:15 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_I><TC><VK_L><VK_I><PC><VK_T><SC><VK_P><VK_L><VK_A><TC><VK_T><VK_E><VK_N><VK_N><SC><Space>
+Assigned Phrase: 
+"I like to play tennis"
+Real Text Entered: 
+"i like to play tennis  "
+WPM: 10.8768472906404
+TER: 0.142857142857143
+NCER: 0.142857142857143
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:46:52 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_P><VK_A><VK_Y><SC><VK_O><VK_F><VK_F><PC><VK_A><SC><VK_M><VK_O><VK_R><SC><VK_F><VK_O><PC><VK_A><SC><VK_H><VK_O><VK_U><PC><Space>
+Assigned Phrase: 
+"pay off a mortgage for a house"
+Real Text Entered: 
+"pay off a mortgage for a house  "
+WPM: 14.4730890999548
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:47:28 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_F><PC><VK_Y><SC><VK_I><VK_N><SC><VK_O><VK_N><TC><Space>
+Assigned Phrase: 
+"for your information only"
+Real Text Entered: 
+"for your information only  "
+WPM: 24.2805755395684
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:48:01 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_A><SC><VK_R><VK_A><VK_T><VK_T><VK_L><VK_E><VK_S><Del><PC><VK_S><VK_N><VK_A><SC><VK_I><SC><VK_V><VK_E><PC><VK_P><VK_O><VK_I><VK_S><VK_O><TC><Space>
+Assigned Phrase: 
+"a rattle snake is very poisonous"
+Real Text Entered: 
+"a rattle snake is very poisonous  "
+WPM: 9.57184750733138
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:48:54 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_O><VK_N><SC><VK_H><VK_E><VK_C><PC><SC><VK_A><SC><VK_Q><VK_U><SC><Del><Del><Space>
+Assigned Phrase: 
+"one heck of a question"
+Real Text Entered: 
+"one heck of a question "
+WPM: 14.2106889094841
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:49:23 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<VK_I><VK_N><VK_T><VK_E><VK_R><VK_E><TC><VK_O><VK_B><VK_S><TC><VK_W><SC><VK_M><VK_A><SC><Space>
+Assigned Phrase: 
+"interesting observation was made"
+Real Text Entered: 
+"interesting observation was make  "
+WPM: 14.7777898511355
+TER: 0.03125
+NCER: 0.03125
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 1:50:01 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Qwerty
+Entry Tokens: 
+<PC><VK_P><VK_R><VK_E><TC><Del><VK_I><VK_A><VK_L><Space><VK_I><SC><VK_V><TC><VK_B><VK_U><VK_S><VK_Y><PC><Space>
+Assigned Phrase: 
+"the presidential suite is very busy"
+Real Text Entered: 
+"the presidential is very busy  "
+WPM: 12.7519539284245
+TER: 0.137931034482759
+NCER: 0.137931034482759
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 2:04:19 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_H><VK_E><PC><VK_W><SC><VK_W><VK_E><VK_A><VK_R><SC><VK_A><SC><VK_S><VK_W><VK_E><VK_A><TC><Space>
+Assigned Phrase: 
+"he was wearing a sweatshirt"
+Real Text Entered: 
+"he was wearing a sweatshirt  "
+WPM: 15.7851764492425
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 2:04:50 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_W><VK_O><VK_R><PC><VK_P><VK_O><VK_P><SC><VK_I><SC><VK_G><VK_R><VK_O><VK_W><SC><Space>
+Assigned Phrase: 
+"world population is growing"
+Real Text Entered: 
+"world population is growing  "
+WPM: 19.7100135931128
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 2:05:17 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_A><VK_K><PC><VK_A><SC><VK_C><VK_O><VK_F><VK_F><PC><VK_B><VK_R><VK_E><PC><Space>
+Assigned Phrase: 
+"take a coffee break"
+Real Text Entered: 
+"take a coffee break  "
+WPM: 19.2469258382342
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 2:05:39 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<PC><VK_P><VK_O><VK_S><VK_T><VK_A><PC><VK_S><VK_E><VK_R><SC><VK_I><SC><VK_V><TC><VK_S><VK_L><TC><Space>
+Assigned Phrase: 
+"the postal service is very slow"
+Real Text Entered: 
+"the postal service is very slow  "
+WPM: 18.7180941576858
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 2:06:09 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_W><VK_H><PC><VK_Y><PC><VK_S><VK_E><SC><VK_I><SC><VK_W><VK_H><PC><VK_Y><PC><VK_G><PC><Space>
+Assigned Phrase: 
+"what you see is what you get"
+Real Text Entered: 
+"what you see is what you get  "
+WPM: 21.3929165676254
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 2:06:45 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_W><VK_H><PC><VK_A><SC><VK_L><VK_O><VK_V><VK_E><TC><VK_R><VK_E><VK_D><PC><VK_J><VK_A><VK_C><TC><Space>
+Assigned Phrase: 
+"what a lovely red jacket"
+Real Text Entered: 
+"what a lovely red jacket  "
+WPM: 14.0718022731373
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 2:07:17 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<PC><VK_F><VK_O><VK_R><VK_C><PC><VK_I><SC><VK_W><PC><VK_Y><PC><Space>
+Assigned Phrase: 
+"the force is with you"
+Real Text Entered: 
+"the force is with you  "
+WPM: 22.1065278334001
+TER: 0
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 11/4/2021 2:07:38 PM
+User: Haowen Zheng, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: unlimited
+Type: Alpha
+Entry Tokens: 
+<VK_V><VK_A><VK_N><VK_N><VK_I><TC><VK_F><VK_L><VK_A><VK_V><PC><Del><VK_E><VK_D><Space><VK_I><VK_C><PC><VK_C><VK_R><VK_E><VK_A><VK_M><PC><Space>
+Assigned Phrase: 
+"vanilla flavored ice cream"
+Real Text Entered: 
+"vannila flavored ice cream  "
+WPM: 11.7894736842105
+TER: 0.153846153846154
+NCER: 0.153846153846154
