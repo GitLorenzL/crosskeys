@@ -18,9 +18,7 @@
    git clone https://github.com/SprLau/CrossKeys-BUAA-VR.git
    ```
 
-4. Unzip `CrossKeys-BUAA-VR.zip`.
-
-5. Import `CrossKeys-BUAA-VR` into your ***Unity Editor, Version 5.5.0f3***.
+4. Import `CrossKeys-BUAA-VR` into your ***Unity Editor, Version 5.5.0f3***.
 
 ### User Guidance
 
