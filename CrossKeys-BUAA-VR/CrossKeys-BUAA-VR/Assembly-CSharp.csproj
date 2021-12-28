@@ -78,16 +78,19 @@
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_TrackedObject.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_UpdatePoses.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
+     <None Include="Assets\Scripts\InputField\record\zilinchen_fatigue.txt" />
      <None Include="Assets\Scripts\InputField\record\haowenzheng.txt" />
      <None Include="Assets\Scripts\InputField\record\zhangchifeng.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
      <None Include="Assets\Scripts\Handle\30k.txt" />
+     <None Include="Assets\Scripts\InputField\record\chengfengwu_fagitue.txt" />
      <None Include="Assets\Scripts\InputField\record\chenyugu.txt" />
      <None Include="Assets\Scripts\Handle\full.txt" />
      <None Include="Assets\Scripts\InputField\record\lianjiewang.txt" />
      <None Include="Assets\Scripts\InputField\record\zhaoxunliu.txt" />
      <None Include="Assets\Scripts\InputField\log.txt" />
+     <None Include="Assets\Scripts\InputField\record\lianjiewang_fatigue.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_SphericalProjection.shader" />
      <None Include="Assets\Scripts\InputField\mackenzie-phrases.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_AlphaOut.shader" />
@@ -95,9 +98,6 @@
      <None Include="Assets\Scripts\InputField\record\zilinchen.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ColorOut.shader" />
      <None Include="Assets\Scripts\mackenzie-phrases.txt" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -112,9 +112,6 @@
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>

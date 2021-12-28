@@ -8,7 +8,8 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 
 public class ApplyInput : MonoBehaviour {
-    private bool fatigueTest = false;
+    private bool fatigueTest = true;
+
     private String[] MacKenzie_Sets = new String[555];
     private String testText;
 

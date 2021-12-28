@@ -1,0 +1,75 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/22/2021 1:53:08 PM
+User: Chengfeng Wu, 21, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: 600000ms
+Type: Alpha
+Entry Tokens: 
+<VK_X><VK_T><VK_T><VK_T><VK_S><VK_U><VK_U><VK_T><VK_T><VK_T><VK_S><VK_H><VK_F><VK_F><VK_F><VK_E><VK_G><VK_H><VK_F><VK_I><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><VK_T><VK_H><VK_J><VK_J><Del><Del><TC><VK_S><VK_T><VK_I><VK_C><PC><VK_N><VK_E><VK_E><PC><VK_T><SC><VK_B><VK_E><VK_F><Del><VK_F><Del><VK_I><Del><Del><VK_E><Space><VK_J><Del><VK_V><VK_A><TC><OEM_COMMA><VK_T><VK_I><VK_J><Del><PC><VK_T><SC><VK_B><VK_E><Space><Del><Del><Del><VK_G><VK_O><Space><VK_S><VK_H><VK_Q><Del><VK_O><SC><VK_I><Del><OEM_COMMA><VK_W><VK_H><SC><VK_C><PC><TC><Del><Del><Del><VK_M><PC><VK_L><VK_I><VK_T><PC><VK_D><TC><VK_B><VK_H><Del><PC><OEM_COMMA><VK_S><VK_P><VK_L><Del><PC><Del><Del><Del><Del><SC><VK_S><VK_U><VK_F><Del><VK_B><TC><VK_A><VK_R><PC><VK_B><VK_A><VK_D><OEM_COMMA><VK_I><VK_N><VK_T><TC><VK_B><VK_E><VK_T><SC><VK_M><VK_E><VK_N><Space><VK_A><VK_N><VK_D><Space><VK_W><VK_O><VK_M><PC><VK_M><Space><Del><Del><OEM_PERIOD><Del><Del><VK_J><Del><OEM_COMMA><OEM_COMMA><Del><Del><SC><VK_F><VK_E><VK_E><SC><VK_O><PC><VK_C><VK_O><VK_P><VK_L><SC><Del><Del><Del><Del><Del><Del><Del><Del><VK_M><VK_P><TC><VK_E><VK_X><VK_A><TC>
+Assigned Phrase: 
+"that sticker needs to be validated, time to go shopping, where can my little dog be, sprawling subdivisions are bad, interactions between men and women, a feeling of complete exasperation, please follow the guidelines, traveling to conferences is fun. "
+
+Real Text Entered: 
+"that sticker needs to be validated, time to go shopping, where can my little dog be, sprawling subdivisions are bad, interactions between men and women, a feeling of complete exasperation "
+WPM: 3.76
+TER: 0.319148936170213
+NCER: 0.00531914893617021
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/22/2021 2:22:18 PM
+User: Chengfeng Wu, 21, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_H><VK_E><Space><VK_B><VK_U><TC><VK_W><VK_A><PC><VK_V><VK_E><PC><VK_H><Space><Del><Del><VK_C><VK_R><VK_O><SC><OEM_COMMA><VK_S><VK_E><VK_B><Del><VK_A><TC><VK_G><VK_O><VK_L><SC><VK_L><VK_O><SC><VK_T><VK_H><VK_E><Space><VK_G><VK_A><SC><OEM_COMMA><VK_N><VK_E><PC><VK_M><VK_I><VK_I><Del><VK_X><Space><VK_R><VK_E><VK_L><TC><VK_A>
+Assigned Phrase: 
+"the bus was very crowded, seasoned golfers love the game, never mix religion and politics, fall is my favorite season, dormitory doors are locked at midnight, on the way to the cottage, exceed the maximum speed limit, the music is better than it sounds. "
+
+Real Text Entered: 
+"the bus was very crowded, seasoned golfers love the game, never mix religion a"
+WPM: 7.8
+TER: 0.0512820512820513
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/22/2021 2:27:32 PM
+User: Chengfeng Wu, 21, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: 300000ms
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_H><VK_E><Space><VK_P><VK_R><VK_I><VK_C><PC><VK_O><PC><VK_G><VK_A><PC><VK_I><VK_V><Del><PC><VK_H><VK_I><VK_J><Del><VK_S><Del><PC><OEM_COMMA><SC><VK_T><VK_H><VK_O><PC><VK_D><VK_I><VK_S><TC><VK_T><VK_H><VK_I><SC><VK_T><VK_O><Space><VK_S><VK_A><PC><OEM_COMMA><VK_T><VK_O><VK_S><VK_S><Space><VK_T><PC><VK_B><VK_A><VK_L><VK_L><Space><VK_A><VK_R><VK_O><PC><OEM_COMMA><VK_R><PC><Del><SC><VK_K><VK_E><VK_E><PC><VK_F><VK_A><VK_L><SC><VK_O><SC><VK_M><PC><VK_H><VK_E><VK_A><VK_D><Space><OEM_COMMA><VK_E><VK_A><VK_R><SC><VK_Q><VK_U><VK_A><TC><VK_A><VK_R><PC><VK_P><VK_R><VK_E><TC><OEM_COMMA><VK_O><VK_B><TC><VK_M><SC><VK_B><PC><VK_M><VK_E><VK_T><Space><VK_F><VK_I><PC><OEM_COMMA><VK_M><PC><VK_W><VK_A><VK_T><SC><VK_F><VK_E><VK_F><Del><SC><VK_I><SC><PC><VK_W><VK_A><SC><VK_I><Del><OEM_COMMA><PC><VK_F><VK_A>
+Assigned Phrase: 
+"the price of gas is high, a thoroughly disgusting thing to say, toss the ball around, raindrops keep falling on my head, earth quakes are predictable, obligations must be met first, my watch fell in the water, the facts get in the way. "
+
+Real Text Entered: 
+"the price of gas is high, a thoroughly disgusting thing to say, toss the ball around, raindrops keep falling on my head , earth quacks are predictable, obligations must be met first, my watch fell in the water, the fa"
+WPM: 8.68
+TER: 0.0460829493087558
+NCER: 0.0184331797235023
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/22/2021 2:37:36 PM
+User: Chengfeng Wu, 21, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: 300000ms
+Type: Alpha
+Entry Tokens: 
+<VK_C><VK_A><VK_N><VK_A><PC><VK_H><SC><VK_T><VK_E><SC><VK_P><VK_R><VK_O><VK_V><TC><OEM_COMMA><VK_W><VK_M><Del><TC><VK_R><SC><PC><VK_R><TC><VK_O><PC><VK_F><VK_A><VK_I><PC><OEM_COMMA><VK_S><VK_A><SC><VK_F><Del><Del><Del><Del><Space><VK_T><SC><VK_Y><Del><VK_W><VK_A><VK_L><PC><PC><VK_S><VK_T><VK_R><VK_E><PC><VK_I><SC><VK_I><Del><PC><VK_E><VK_V><VK_E><VK_N><PC><OEM_COMMA><PC><VK_H><VK_O><VK_P><PC><VK_O><PC><SC><VK_N><VK_E><SC><VK_O><VK_R><PC><OEM_COMMA><VK_T><TC><VK_W><VK_A><SC><Del><Del><Del><SC><TC><VK_T><SC><Del><SC><VK_E><PC><OEM_COMMA><SC><VK_L><VK_I><VK_T><PC><VK_E><VK_N><VK_C><PC><TC><VK_N><VK_E><VK_E><TC><OEM_COMMA><VK_W><VK_H><VK_E><PC><VK_D><SC><VK_I><Space><VK_L><VK_E><PC><VK_M><PC><VK_G><VK_L><PC><OEM_COMMA><VK_I><VK_F><PC><VK_D><VK_I><VK_P><PC><VK_D><VK_O><TC><VK_N><PC><VK_W><VK_O><PC><OEM_PERIOD>
+Assigned Phrase: 
+"Canada has ten provinces, we run the risk of failure, safe to walk the streets in the evening, the hopes of a new organization, this watch is too expensive, a little encouragement is needed, where did I leave my glasses, if diplomacy does not work. "
+
+Real Text Entered: 
+"canada has ten provinces, we run the risk of failure, safe to walk the streets in the evening, the hopes of a new organization, this watch is too expensive, a little encouragement is needed, where did i leave my glasses, if diplomacy does not work. "
+WPM: 9.96
+TER: 0.0562248995983936
+NCER: 0.0120481927710843
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/22/2021 2:43:46 PM
+User: Chengfeng Wu, 21, male, inexperienced, right-handed, from SCSE, BUAA
+Duration: 300000ms
+Type: Alpha
+Entry Tokens: 
+<VK_B><VK_E><Space><VK_P><VK_E><VK_R><VK_V><Del><VK_S><VK_I><PC><VK_T><SC><VK_W><VK_I><TC><VK_F><Del><SC><VK_S><VK_T><VK_R><VK_L><PC><OEM_COMMA><PC><VK_A><VK_S><VK_S><SC><VK_T><VK_O><VK_O><SC><VK_S><VK_I><SC><VK_M><VK_O><VK_N><VK_L><Del><PC><Del><TC><OEM_COMMA><VK_N><TC><VK_M><Del><VK_E><VK_X><SC><VK_W><VK_I><VK_T><SC><SC><VK_B><VK_I><VK_L><VK_L><OEM_COMMA><VK_I><Space><VK_H><VK_A><VK_T><VK_E><Space><VK_B><VK_A><VK_K><PC><VK_P><VK_I><SC><OEM_COMMA><VK_W><Del><VK_Z><PC><VK_I><VK_I><Del><SC><VK_O><SC><PC><VK_F><VK_A><TC><OEM_COMMA><VK_T><TC><VK_P><VK_H><TC><VK_W><VK_F><Del><SC><VK_N><SC><VK_O><VK_C><VK_C><SC><OEM_COMMA><VK_R><VK_E><VK_L><SC><VK_A><SC><VK_V><PC><VK_S><VK_T><VK_R><TC><OEM_COMMA><VK_P><VK_E><VK_E><SC><VK_T><VK_H><VK_R><PC><SC><VK_S><VK_M><SC><VK_H><VK_O><VK_L><SC><OEM_PERIOD>
+Assigned Phrase: 
+"be persistent to win a strike, the assault took six months, no exchange without a bi193733451937ll, I hate baking pies, zero in on the facts, this phenomenon will never occur, relations are very strained, peering through a small hole. "
+
+Real Text Entered: 
+"be persistent to win a strlke, the assault took six months, no exchange without a bil, i hate baking pies, zero in on the facts, this phenomenon will never occur, relations are very strained, peering through a small hole. "
+WPM: 9.55
+TER: 0.0495495495495496
+NCER: 0.0135135135135135

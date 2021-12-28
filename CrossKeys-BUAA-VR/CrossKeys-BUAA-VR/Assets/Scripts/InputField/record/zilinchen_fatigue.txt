@@ -1,0 +1,105 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 5:48:28 PM
+User: Zilin Chen, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_G><VK_O><VK_L><PC><VK_N><VK_A><Del><Del><VK_A><TC><PC><VK_T><VK_H><VK_R><SC><VK_B><VK_A><Del><VK_E><VK_B><Del><VK_A><SC><OEM_COMMA><PC><VK_T><Del><VK_S><VK_T><VK_O><TC><VK_E><VK_X><SC><VK_C><Del><VK_D><VK_I><VK_P><VK_P><PC><VK_X><Del><OEM_COMMA><VK_Q><VK_U><SC><Del><Del><Space><VK_T><VK_H><TC><VK_Q><Del><VK_M><SC><VK_B><PC><VK_A><VK_N><TC><OEM_COMMA><VK_C><VK_O><VK_M><VK_M><PC><VK_H><Del><VK_T><VK_H><VK_Q><Del><VK_R><PC><VK_E><VK_M><SC><Del><Del><Del><Del><Del><PC><OEM_COMMA><VK_M><VK_E><VK_E><SC><Del><Del><Del><Del><Space><VK_T><VK_O><VK_M><VK_M><PC><VK_L><Del><VK_I>
+Assigned Phrase: 
+"goldilocks and the three bears, the stock exchange dipped, question that must be answered, communicate through email, meet tomorrow in the lavatory, this is too much to handle, we dine out on the weekends, that is a very nasty cut. "
+
+Real Text Entered: 
+"goldilocks and the three bears, the stock exchange dipped, question that must be answered, communicate through email, meet tommrrow i"
+WPM: 13.3
+TER: 0.172932330827068
+NCER: 0.0075187969924812
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 5:55:15 PM
+User: Zilin Chen, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 300000ms
+Type: Alpha
+Entry Tokens: 
+<VK_N><TC><VK_E><VK_X><SC><VK_W><VK_I><VK_T><SC><SC><VK_B><VK_I><VK_L><VK_L><Space><OEM_COMMA><VK_W><Del><VK_O><VK_N><SC><VK_H><VK_O><VK_U><VK_I><Del><VK_T><Space><TC><Del><Del><Del><Del><Del><VK_V><Del><VK_R><Space><TC><VK_A><VK_L><VK_L><VK_O><PC><VK_E><VK_F><Del><Del><VK_F><PC><VK_Q><SC><OEM_COMMA><VK_V><VK_E><PC><VK_R><VK_E><VK_L><PC><VK_T><SC><VK_E><VK_N><VK_T><SC><OEM_COMMA><VK_K><Del><VK_I><VK_N><SC><VK_S><VK_U><VK_P><PC><VK_H><VK_I><TC><OEM_COMMA><VK_S><VK_A><VK_L><PC><VK_M><SC><VK_M><VK_A><PC><VK_T><VK_H><VK_E><TC><VK_M><VK_O><VK_N><TC><VK_Q><VK_U><VK_O><PC><OEM_COMMA><VK_T><VK_I><PC><VK_T><SC><VK_G><TC><VK_S><VK_H><TC><OEM_COMMA><VK_C><VK_A><VK_L><VK_L><Space><VK_F><PC><VK_M><VK_O><SC><Del><Del><Del><Del><PC><VK_D><VK_E><VK_T><PC><OEM_COMMA><VK_Y><PC><VK_M><SC><VK_B><PC><VK_G><VK_E><VK_E><SC><VK_O><VK_L><PC><OEM_COMMA><VK_V><VK_S><Del><Del><VK_S><VK_I><VK_T><Space><VK_A><VK_T><Space><PC><VK_F><VK_R><VK_O><SC><VK_O><PC><PC><VK_B><VK_U><TC><VK_Y><Del><Del><OEM_COMMA><Del><Del><SC><Del><VK_I><Del><SC><OEM_COMMA><Del><Del><VK_S><OEM_COMMA><VK_T><VK_E><VK_L><VK_L><Space><SC><VK_L><VK_I><SC><VK_A><TC><VK_Y><SC><VK_N><VK_O><VK_S><VK_E><Space><VK_W><VK_X><Del><SC><TC><Del><Del><Del><TC><Del><Del><Del><VK_G><SC><Del><Del><Del><SC><Del><Del><Del><VK_R><VK_O><VK_W>
+Assigned Phrase: 
+"no exchange without a bill, one hour is allotted for questions, very reluctant to enter, information super highway, salesmen must make their monthly quota, time to go shopping, call for more details, you must be getting old, sit at the front of the bus, tell a lie and your nose will grow. "
+
+Real Text Entered: 
+"no exchange without a bill, one hour is allotted for questions, very reluctant to enter, information super highway, salesmen must make their monthly quota, time to go shopping, call for more details, you must be geeting old, sit at the front of the bus, tell a lie and your nose will grow"
+WPM: 11.52
+TER: 0.135416666666667
+NCER: 0.00347222222222222
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 6:04:33 PM
+User: Zilin Chen, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_T><TC><VK_S><VK_Y><PC><VK_O><PC><VK_T><VK_A><VK_X><PC><OEM_COMMA><VK_H><PC><VK_W><VK_A><VK_T><TC><VK_I><SC><VK_A><VK_S><VK_T><PC><OEM_COMMA><VK_W><TC><VK_Y><VK_D><Del><Del><VK_D><VK_K><Del><OEM_COMMA><Del><OEM_COMMA><Del><VK_I><Del><Del><Del><VK_I><VK_N><PC><VK_O><VK_U><PC><VK_O><SC><VK_I><Del><PC><VK_W><VK_E><VK_E><TC><OEM_COMMA><VK_E><VK_V><VK_I><Del><PC><VK_S><VK_A><VK_T><VK_O><Del><VK_U><PC><VK_H><PC><VK_G><Del><VK_F><VK_O><VK_L><SC><PC><VK_L><VK_A><VK_U><VK_N><PC><OEM_PERIOD><VK_P><VK_X><SC>
+Assigned Phrase: 
+"this system of taxation, he watched in astonishment, we dine out on the weekends, every Saturday he folds the laundry, please provide your date of birth, I can play much better now, I just cannot figure this out, this person is a disaster. "
+
+Real Text Entered: 
+"this system of taxation, he watched in astonishment, we dine out on the weekends, every saturday he folds the laundry. pxease "
+WPM: 12.6
+TER: 0.126984126984127
+NCER: 0.0317460317460317
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 6:07:59 PM
+User: Zilin Chen, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_D><Del><VK_B><VK_A><PC><VK_F><SC><PC><VK_E><VK_V><Del><VK_N><PC><OEM_COMMA><VK_W><VK_H><SC><VK_D><SC><VK_Y><PC><VK_E><Del><VK_G><SC><VK_S><VK_U><VK_C><TC><SC><VK_S><VK_I><VK_M><Del><PC><VK_I><VK_D><PC><OEM_COMMA><PC><VK_F><VK_I><VK_R><SC><VK_D><Del><VK_B><VK_L><VK_A><VK_Z><SC><VK_A><VK_L><VK_L><Space><VK_W><VK_E><VK_E><TC><OEM_COMMA><VK_A><VK_N><Space><VK_O><VK_H><Del><VK_C><VK_C><VK_A><PC><VK_T><VK_A><VK_S><VK_E><Del><PC><VK_O><PC><VK_C><VK_H><PC><OEM_COMMA><VK_D><PC><VK_N><PC>
+Assigned Phrase: 
+"bad for the environment, where did you get such a silly idea, the fire blazed all weekend, an occasional taste of chocolate, do not walk too quickly, the proprietor was unavailable, medieval times were very hard, do you get nervous when you speak. "
+
+Real Text Entered: 
+"bad from the environment, where did you get such a silly idea, the fire blazed all weekends, an occasional taste of chocolate, do not "
+WPM: 13.4
+TER: 0.0970149253731343
+NCER: 0.0447761194029851
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 6:10:06 PM
+User: Zilin Chen, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_O><VK_N><PC><Del><PC><VK_N><Del><Del><Del><VK_N><SC><VK_H><VK_E><VK_C><PC><VK_O><PC><VK_X><VK_X><Del><Del><SC><VK_Q><PC><OEM_COMMA><VK_G><PC><VK_L><Del><VK_N><Del><VK_M><Del><VK_J><VK_O><VK_B><SC><VK_F><PC><VK_T><VK_F><VK_H><Del><Del><VK_H><VK_O><VK_S><VK_Z><Del><PC><VK_W><VK_X><Del><VK_X><PC><VK_E><VK_D><SC><OEM_COMMA><VK_I><Del><OEM_COMMA><Del><VK_I><Del><Del><VK_I><Space><VK_H><TC><Del><Del><Del><VK_T><PC><VK_D><VK_B><Del><Del><VK_F><Del><VK_B><VK_A><VK_M><Del><VK_K><Del><VK_K><PC><VK_P><VK_I><SC><OEM_COMMA><PC><VK_F><VK_I><PC><VK_T><VK_I><PC><VK_H><OEM_PERIOD><PC><Del><Del><Del><Del>
+Assigned Phrase: 
+"one heck of a question, good jobs for those with education, I hate baking pies, the first time he tried to swim, the registration period is over, teaching services will help, I skimmed through your proposal, elections bring out the best. "
+
+Real Text Entered: 
+"one heck of a question, good jobs for those wxth education, i hate baking pies, the first time h. "
+WPM: 9.8
+TER: 0.336734693877551
+NCER: 0.0408163265306122
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 6:12:12 PM
+User: Zilin Chen, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_W><TC><VK_D><VK_R><VK_I><SC><VK_O><SC><VK_P><VK_A><VK_R><VK_K><SC><OEM_COMMA><PC><VK_S><VK_E><VK_C><PC><VK_L><VK_A><SC><VK_C><VK_O><VK_U><PC><VK_B><VK_A><SC><VK_T><SC><Del><Del><VK_R><VK_A><VK_N><SC><OEM_COMMA><VK_W><Del><Del><Del><Space><VK_W><VK_A><PC><VK_N><PC><VK_R><VK_E><VK_G><VK_I><PC><OEM_COMMA><VK_E><VK_F><VK_F><PC><TC><OEM_COMMA><Del><Del><Space><VK_W><VK_H><PC><VK_I><VK_T><Space><VK_W><SC><VK_T><VK_F><Del><VK_B><Del><VK_A>
+Assigned Phrase: 
+"we drive on parkways, the second largest country, bank transaction was not registered, effort is what it will take, the bus was very crowded, limited warranty of two years, can we play cards tonight, dolphins leap high out of the water. "
+
+Real Text Entered: 
+"we drive on parkways, the second largest country bank transaction was not registered, effort is what it will ta"
+WPM: 11.1
+TER: 0.0990990990990991
+NCER: 0.018018018018018
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 6:14:17 PM
+User: Zilin Chen, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_L><Del><VK_I><VK_F><Space><VK_Y><PC><VK_W><VK_E><VK_R><PC><VK_N><PC><VK_T><Del><VK_S><TC><VK_S><VK_G><Del><VK_M><Del><VK_T><VK_U><SC><OEM_COMMA><VK_T><VK_H><VK_B><Del><VK_Y><Del><TC><TC><SC><VK_V><PC><VK_N><VK_A><TC><VK_C><VK_K><Del><VK_U><SC><VK_H><PC><VK_D><Del><VK_C><VK_A><VK_L><VK_L><SC><VK_S><VK_E><TC><VK_T><VK_I><PC><Del><SC><OEM_COMMA><VK_T><VK_H><TC><VK_A><VK_G><VK_G><Del><TC><TC><VK_Y><Del><VK_W><PC><VK_P><VK_Q><Del><VK_R><SC><Del><VK_S><OEM_COMMA>
+Assigned Phrase: 
+"if you were not so stupid, that is a very nasty cut, he called seven times, that agreement is rife with problems, historic meeting without a result, the cotton is high, sad to hear that news, completely sold out of that. "
+
+Real Text Entered: 
+"if you were not so stupid, that is a very nasty cut he called seven times, that agreement is with problems, "
+WPM: 10.8
+TER: 0.222222222222222
+NCER: 0.101851851851852

@@ -1,0 +1,105 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 4:19:58 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<PC><VK_T><VK_R><VK_E><TC><VK_D><VK_E><VK_P><SC><VK_I><PC><VK_B><VK_R><VK_O><PC><Del><Del><OEM_COMMA><Del><Del><OEM_COMMA><Del><Del><VK_E><OEM_COMMA><VK_I><PC><Del><Del><Space><VK_W><VK_A><VK_N><PC><VK_T><SC><VK_H><VK_O><VK_Q><Del><TC><VK_Y><VK_F><SC><Del><Del><Del><Del><SC><VK_H><VK_A><TC><OEM_COMMA><SC><VK_M><VK_O><TC><VK_U><Del><VK_R><VK_I><VK_D><SC><VK_T><VK_H><VK_I><SC><OEM_COMMA><VK_F><VK_A><SC><VK_T><VK_H><VK_A><SC><SC><VK_S><VK_P><VK_E><VK_N><TC><VK_B><VK_U><VK_L><VK_L><PC><OEM_COMMA><VK_M><PC><VK_M><VK_O>
+Assigned Phrase: 
+"the treasury department is broke, I want to hold your hand, a most ridiculous thing, faster than a speeding bullet, my mother makes good cookies, spill coffee on the carpet, traveling to conferences is fun, keep receipts for all your expenses. "
+
+Real Text Entered: 
+"the treasury department is broke, i want to hold your hard, a most ridiculous thing, faster than a spending bullet, my mo"
+WPM: 12.1
+TER: 0.140495867768595
+NCER: 0.0247933884297521
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 4:31:22 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 300000ms
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_R><VK_A><SC><VK_A><VK_T><PC><PC><VK_S><VK_P><PC><VK_O><PC><VK_L><VK_I><VK_E><VK_G><Del><Del><VK_G><PC><OEM_COMMA><VK_R><VK_E><VK_J><SC><VK_L><VK_E><VK_T><VK_T><PC><VK_A><SC><VK_D><VK_I><VK_S><VK_C><PC><Del><Del><Del><Del><Del><Del><Del><VK_O><SC><OEM_COMMA><PC><VK_Q><Del><VK_R><VK_E><VK_G><SC><VK_P><VK_E><VK_R><TC><VK_I><SC><VK_K><Del><Del><Del><PC><VK_O><VK_V><PC><OEM_COMMA><VK_P><VK_R><VK_E><VK_S><VK_I><SC><VK_D><VK_R><VK_I><SC><VK_E><PC><VK_C><VK_A><TC><Del><VK_S><OEM_COMMA><VK_C><SC><VK_A><TC><VK_S><PC><VK_O><VK_U><SC><VK_N><VK_E><SC><VK_C><VK_A><TC><OEM_COMMA><PC><VK_A><VK_C><VK_C><VK_E><SC><VK_S><VK_P><VK_E><VK_E><SC><VK_W><VK_A><PC><VK_B><VK_O><SC><OEM_COMMA><VK_O><VK_U><VK_T><VK_T><Del><Del><VK_N><Del><SC><VK_T><Del><VK_N><VK_E><SC><VK_C><VK_A><TC><OEM_COMMA><PC><VK_A><VK_C><VK_C><VK_E><SC><VK_S><VK_P><VK_E><SC><VK_W><VK_A><PC><VK_B><VK_O><SC><OEM_COMMA><VK_W><VK_I><PC><VK_E><VK_A><VK_C><PC><VK_S><VK_T><VK_E><PC><VK_F><PC><Del><VK_W><PC><OEM_COMMA><VK_A><VK_L><VK_L><Space><VK_T><VK_O><VK_G><VK_E><PC><VK_I><SC><VK_O><VK_N><SC><VK_B><VK_I><PC><VK_P><VK_I><PC><OEM_PERIOD>
+Assigned Phrase: 
+"travel at the speed of light, rejection letters are discouraging, the registration period is over, presidents drive expensive cars, come and see our new car, the acceptance speech was boring, with each step forward, all together in one big pile. "
+
+Real Text Entered: 
+"travel at the speed of light, rejected letters are discouraging, the registration period is over, presidents drive expensive cars, come and see our new car, the acceptance speech was boring, our new car, the acceptance speech was boring, with each step forward, all together in one big pile. "
+WPM: 12.7
+TER: 0.240549828178694
+NCER: 0.175257731958763
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 4:43:18 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_B><Del><VK_A><VK_N><PC><Del><Del><Space><VK_O><VK_C><VK_C><Del><VK_C><Del><SC><VK_T><VK_A><VK_S><PC><VK_O><PC><VK_C><VK_H><PC><OEM_COMMA><VK_D><PC><VK_J><VK_Y><Del><Del><VK_Y><OEM_PERIOD><Del><Del><VK_Y><PC><Del><Del><VK_O><VK_U><VK_S><Del><Space><VK_G><SC><VK_N><VK_E><VK_R><PC><VK_W><VK_H><TC><VK_Y><VK_I><PC><Del><Del><Del><Del><Del><PC><VK_S><VK_P><VK_E><VK_A><PC><OEM_COMMA><VK_W><TC><VK_P><VK_A><VK_R><VK_K><TC><VK_I><SC><VK_D><VK_R><VK_I><VK_V><SC><OEM_COMMA><VK_C><SC><VK_A><TC><VK_S><SC><Del><Del><Del><Del><PC><VK_O><TC><Del><Del><SC><VK_N><VK_E><VK_B><Del><SC>
+Assigned Phrase: 
+"an occasional taste of chocolate, do you get nervous when you speak, we park in driveways, come and see our new car, a touchdown in the last minute, they might find your comment offensive, my bank account is overdrawn, he cooled off after she left. "
+
+Real Text Entered: 
+"an occasional taste of chocolate, do you get nervous when you speak, we park in driveways, come and see our new "
+WPM: 11.2
+TER: 0.223214285714286
+NCER: 0.00892857142857143
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 4:45:37 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_F><VK_E><VK_B><PC><VK_H><SC><VK_A><TC><Del><Del><Space><VK_E><VK_X><VK_T><SC><Del><Del><Del><Del><Del><PC><VK_D><VK_A><PC><OEM_COMMA><VK_T><VK_R><SC><VK_T><SC><VK_E><VK_N><TC><VK_Y><SC><VK_M><VK_A><VK_T><PC><VK_L><VK_E><VK_A><PC><OEM_COMMA><VK_F><VK_E><VK_B><VK_B><Del><PC><VK_H><VK_B><Del><SC><VK_A><VK_N><SC><VK_E><VK_X><VK_T><PC><VK_D><VK_A><PC><OEM_COMMA><VK_S><VK_H><SC><VK_C><VK_H><VK_E><VK_E><PC><VK_K><PC><Del><SC><PC><VK_M><VK_I><SC><VK_S><VK_H><SC><OEM_COMMA><VK_D><VK_O><PC><VK_N><PC><VK_F><Del><VK_D><VK_R><SC><VK_S><Del><PC>
+Assigned Phrase: 
+"February has an extra day, try to enjoy your maternity leave, February has an extra day, sharp cheese keeps the mind sharp, do not drink the water, February has an extra day, can I skate with sister today, shivering is one way to keep warm. "
+
+Real Text Entered: 
+"february has an extra day, try to enjoy your maternity leave, february has an extra day, sharp cheese keeps the mind sharp, do not drink the "
+WPM: 14.1
+TER: 0.106382978723404
+NCER: 0.0212765957446809
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 4:47:43 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<SC><VK_P><VK_R><SC><VK_W><VK_I><VK_I><Del><PC><PC><VK_E><VK_N><VK_G><PC><OEM_COMMA><PC><VK_F><VK_O><VK_U><TC><VK_E><VK_D><VK_I><VK_T><PC><VK_W><VK_A><PC><VK_B><VK_E><SC><OEM_COMMA><VK_Y><PC><VK_A><SC><VK_N><VK_N><Del><PC><VK_A><PC><Del><PC><VK_J><VK_E><PC><VK_Y><VK_E><PC><OEM_COMMA><PC><VK_D><TC><VK_W><VK_I><SC><VK_B><VK_I><TC><Del><Del><SC><VK_Y><PC><OEM_COMMA><VK_A><PC><VK_T><VK_H><VK_O><PC><VK_D><VK_I><VK_S><VK_G><PC><VK_T><VK_H><VK_I><SC><VK_T><SC><VK_S><VK_S><Del><VK_A><PC><OEM_COMMA><PC><VK_D><VK_O><SC><VK_B><VK_U><VK_R><PC><VK_E><Del><PC><VK_B>
+Assigned Phrase: 
+"a problem with the engine, the fourth edition was better, you are not a jedi yet, the dog will bite you, a thoroughly disgusting thing to say, the dog buried the bone, get aboard the ship is leaving, be persistent to win a strike. "
+
+Real Text Entered: 
+"a problem with the engine, the fourth edition was better, you are not a jedi yet, the dog will bite you, a thoroughly disgusting thing to say, the dog buried the b"
+WPM: 16.3
+TER: 0.0429447852760736
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 4:49:52 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_N><VK_O><VK_B><PC><VK_C><VK_A><VK_R><VK_E><SC><VK_A><VK_N><VK_Y><SC><OEM_COMMA><PC><VK_D><VK_A><VK_R><PC><VK_Y><PC><Del><TC><VK_M><VK_A><SC><Del><Del><OEM_COMMA><Del><Del><VK_N><OEM_COMMA><VK_B><VK_R><TC><VK_I><PC><VK_D><VK_I><SC><OEM_COMMA><VK_C><VK_O><VK_M><VK_P><VK_L><TC><Del><SC><VK_S><VK_O><VK_L><PC><VK_O><TC><VK_O><PC><VK_T><VK_H><VK_A><PC><VK_J><Del><OEM_COMMA><VK_A><VK_S><Del><PC><VK_S><VK_E><VK_R><Del><VK_C><SC><VK_F><VK_O><SC><VK_O><VK_O><Del><PC><VK_E><VK_I><PC><VK_T><VK_H><VK_O><VK_U><PC><OEM_COMMA><VK_W><TC><VK_H><TC>
+Assigned Phrase: 
+"nobody cares anymore, the daring young man, breathing is difficult, completely sold out of that, a security force of eight thousand, we have enough witnesses, what goes up must come down, the chancellor was very boring. "
+
+Real Text Entered: 
+"nobody cares anymore, the daring young man, breathing is difficult, completely sold out of that, a security force of eight thousand, we have "
+WPM: 14.1
+TER: 0.0780141843971631
+NCER: 0.00709219858156028
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/24/2021 4:52:03 PM
+User: Lianjie Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_L><VK_I><VK_F><PC><VK_I><PC><VK_E><Del><VK_B><VK_U><PC><VK_A><PC><VK_D><VK_R><VK_E><TC><OEM_COMMA><VK_I><PC><Del><Del><PC><Del><Del><TC><VK_C><VK_A><SC><VK_B><VK_E><VK_L><PC><VK_I><PC><Del><Del><TC><VK_A><VK_T><TC><PC><VK_Y><Del><VK_W><VK_H><VK_O><VK_L><PC><VK_T><VK_H><VK_I><SC><OEM_COMMA><VK_J><PC><VK_W><VK_H><PC><PC><VK_D><VK_O><VK_C><PC><VK_O><VK_R><TC><Del><SC><OEM_COMMA><VK_A><SC><VK_J><Del><VK_Y><PC><VK_T><VK_A><TC><VK_T><SC><VK_M><VK_E><PC><Del><PC><Del><OEM_COMMA><Del><Del><VK_E><OEM_COMMA><PC><VK_L><VK_I><VK_B><TC><Del><Del><Del><Del><Del><PC><VK_I><PC><VK_C><VK_L><SC><VK_T><VK_O><TC><VK_I><Del><Del><OEM_COMMA><VK_I><Del><Del><Del><VK_Y><OEM_COMMA><VK_I><VK_T><PC>
+Assigned Phrase: 
+"life is but a dream, I cannot believe I ate the whole thing, just what the doctor ordered, are you talking to me, the library is closed today, it should be sunny tomorrow, I hate baking pies, an excellent way to communicate. "
+
+Real Text Entered: 
+"life is but a dream, i cannot believe i ate the whole thing, just what the doctor ordered, are you talking to me, the library is closed today, it "
+WPM: 14.6
+TER: 0.184931506849315
+NCER: 0.0205479452054795

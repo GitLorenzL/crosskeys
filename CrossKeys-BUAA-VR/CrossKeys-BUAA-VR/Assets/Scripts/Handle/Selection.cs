@@ -7,7 +7,7 @@ using WindowsInput;
 using System;
 using System.Text;
 using System.IO;
-
+                 
 public class Selection : MonoBehaviour {
     ////////////////////////////////////////////////////////////////////////////////////////    USER INFO FORM
     ///**********************************************************************************///
@@ -18,7 +18,7 @@ public class Selection : MonoBehaviour {
     private const bool userExperience = true;           // if experienced in VR
     private const bool userDominantHandRight = true;    // if dominant hand is on the right
     private const string type = "Alpha";                // Alpha, Qwerty, Freq
-    private const int testDuration = -1;                // if unlimited, assign -1, else assign time in millisecond
+    private const int testDuration = 120000;                // if unlimited, assign -1, else assign time in millisecond
     ///**********************************************************************************///
     ////////////////////////////////////////////////////////////////////////////////////////    FINISH TO READY TO GO
 
