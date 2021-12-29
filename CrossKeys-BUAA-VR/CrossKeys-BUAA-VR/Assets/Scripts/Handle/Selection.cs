@@ -11,9 +11,9 @@ using System.IO;
 public class Selection : MonoBehaviour {
     ////////////////////////////////////////////////////////////////////////////////////////    USER INFO FORM
     ///**********************************************************************************///
-    private const string userName = "Zilin Chen";
+    private const string userName = "Xiaolong Liu";
     private const string userOrganization = "SCSE, BUAA";
-    private const int userAge = 20;
+    private const int userAge = 29;
     private const int userGender = 1;                   // 1 for male, 0 for female
     private const bool userExperience = true;           // if experienced in VR
     private const bool userDominantHandRight = true;    // if dominant hand is on the right
@@ -29,7 +29,7 @@ public class Selection : MonoBehaviour {
     private float Right1Threshold = 0.06f;
     private float FrontThreshold = 0.06f;
     private float BehindThreshold = 0.06f;
-    private ushort Vibration = 800;
+    private ushort Vibration = 4000;
     private Color commonColor = Color.black;
     private Color highlightedColor = Color.yellow;
     
