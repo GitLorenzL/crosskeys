@@ -11,11 +11,11 @@ using System.IO;
 public class Selection : MonoBehaviour {
     ////////////////////////////////////////////////////////////////////////////////////////    USER INFO FORM
     ///**********************************************************************************///
-    private const string userName = "Xiaolong Liu";
-    private const string userOrganization = "SCSE, BUAA";
-    private const int userAge = 29;
-    private const int userGender = 1;                   // 1 for male, 0 for female
-    private const bool userExperience = true;           // if experienced in VR
+    private const string userName = "Wenjing Yang";
+    private const string userOrganization = "Zhizhen Academy, BUAA";
+    private const int userAge = 20;
+    private const int userGender = 0;                   // 1 for male, 0 for female
+    private const bool userExperience = false;           // if experienced in VR
     private const bool userDominantHandRight = true;    // if dominant hand is on the right
     private const string type = "Alpha";                // Alpha, Qwerty, Freq
     private const int testDuration = 120000;                // if unlimited, assign -1, else assign time in millisecond
