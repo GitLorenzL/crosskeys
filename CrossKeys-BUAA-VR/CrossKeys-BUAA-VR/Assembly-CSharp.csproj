@@ -39,10 +39,10 @@
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>D:/Unity Hub/5.5.0/Editor/Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>D:/Unity Hub/5.5.0/Editor/Data/Managed/UnityEditor.dll</HintPath>
+      <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\Handle\Selection.cs" />
      <Compile Include="Assets\Scripts\InputField\ApplyInput.cs" />
      <Compile Include="Assets\Scripts\Orbit\Steady.cs" />
+     <Compile Include="Assets\Scripts\Road\ApplyRoad.cs" />
      <Compile Include="Assets\SteamVR\Plugins\openvr_api.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_Camera.cs" />
@@ -80,52 +81,46 @@
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
      <None Include="Assets\Scripts\InputField\record\zilinchen_fatigue.txt" />
      <None Include="Assets\Scripts\InputField\record\haowenzheng.txt" />
-     <None Include="Assets\Scripts\InputField\record\new.txt" />
      <None Include="Assets\Scripts\InputField\record\zhangchifeng.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
      <None Include="Assets\Scripts\Handle\30k.txt" />
      <None Include="Assets\Scripts\InputField\record\chengfengwu_fagitue.txt" />
      <None Include="Assets\Scripts\InputField\record\chenyugu.txt" />
+     <None Include="Assets\20 Ground Material Sets MAN MADE\readme.txt" />
      <None Include="Assets\Scripts\Handle\full.txt" />
      <None Include="Assets\Scripts\InputField\record\lianjiewang.txt" />
      <None Include="Assets\Scripts\InputField\record\zhaoxunliu.txt" />
-     <None Include="Assets\Scripts\InputField\record\kangyuwang_fatigue.txt" />
      <None Include="Assets\Scripts\InputField\log.txt" />
      <None Include="Assets\Scripts\InputField\record\lianjiewang_fatigue.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_SphericalProjection.shader" />
      <None Include="Assets\Scripts\InputField\mackenzie-phrases.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_AlphaOut.shader" />
      <None Include="Assets\SteamVR\readme.txt" />
+     <None Include="Assets\Scripts\InputField\record\wenjingyang_fatigue.txt" />
      <None Include="Assets\Scripts\InputField\record\zilinchen.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ColorOut.shader" />
      <None Include="Assets\Scripts\mackenzie-phrases.txt" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>D:/Unity Hub/5.5.0/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Unity Hub/5.5.0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
- <HintPath>D:/Unity Hub/5.5.0/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.PlaymodeTestsRunner">
- <HintPath>D:/Unity Hub/5.5.0/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+ <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
- <HintPath>D:/Unity Hub/5.5.0/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
- <HintPath>D:/Unity Hub/5.5.0/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>D:/Unity Hub/5.5.0/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
+ <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.VR">
- <HintPath>D:/Unity Hub/5.5.0/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ <HintPath>C:/Users/VR/Desktop/5.5.0/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="InputSimulator">
- <HintPath>D:/crosskeys/CrossKeys-BUAA-VR/CrossKeys-BUAA-VR/CrossKeys-BUAA-VR/Assets/InputSimulator/InputSimulator.dll</HintPath>
+ <HintPath>C:/Users/VR/Desktop/CrossKeys-BUAA-VR/CrossKeys-BUAA-VR/CrossKeys-BUAA-VR/Assets/InputSimulator/InputSimulator.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
