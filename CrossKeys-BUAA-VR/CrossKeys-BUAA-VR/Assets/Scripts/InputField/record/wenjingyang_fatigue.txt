@@ -1,0 +1,135 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 1/2/2022 7:47:34 PM
+User: Wenjing Yang, 20, female, inexperienced, right-handed, from Zhizhen Academy, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_I><Space><VK_E><Space><Del><Del><PC><VK_E><Del><Del><Del><Del><Del><VK_A><VK_M><Del><VK_M><Space><VK_W><VK_E><SC><SC><VK_I><Del><VK_T><OEM_COMMA><Del><Del><VK_S><Del><VK_T><VK_I><VK_E><VK_D><Del><Space><VK_A><TC><VK_A><Del><VK_A><Space><VK_J><SC><VK_I><Del><OEM_COMMA><VK_P><VK_A><VK_Y><Space><VK_O><VK_F><VK_F><Space><VK_A><Space><VK_M><VK_O><VK_R><SC><VK_F><PC><VK_A><Space><VK_H><VK_O><VK_U><PC><OEM_COMMA><VK_T><VK_H><VK_E><Space><VK_L>
+Assigned Phrase: 
+"I am wearing a tie and a jacket, pay off a mortgage for a house, the largest of the five oceans, flashing red light means stop, we dine out on the weekends, shall we play a round of cards, I cannot believe I ate the whole thing, the cotton is high. "
+
+Real Text Entered: 
+"i am wearing a tie and a jacket, pay off a mortgage for a house, the largest of the five oceans, flashing red light means stop, we dine out on t"
+WPM: 14.8
+TER: 0.228571428571429
+NCER: 0.0142857142857143
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 1/2/2022 7:53:52 PM
+User: Wenjing Yang, 20, female, inexperienced, right-handed, from Zhizhen Academy, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<TC><Del><Del><Del><Del><PC><VK_I><VK_M><TC><VK_O><PC><TC><Del><Del><Del><TC><Del><Del><Del><PC><VK_N><VK_A><PC><OEM_COMMA><VK_R><VK_E><VK_G><Del><VK_J><PC><VK_L><VK_E><SC><Del><Del><Del><Del><VK_T><PC><VK_A><VK_E><Del><SC><VK_D><VK_I><VK_S><TC><Del><Del><Del><Del><Del><Del><Del><Del><TC><Del><Del><Del><Del><Del><Del><Del><Del><TC><Del><Del><Del><Del><Del><Del><Del><Del><VK_C><VK_O><SC><OEM_COMMA><VK_V><VK_I><SC><VK_C><VK_A><VK_M><PC><OEM_COMMA><Del><Del><OEM_COMMA><Del>
+Assigned Phrase: 
+"the imagination of the nation, rejection letters are discouraging, video camera with a zoom lens, where can my little dog be, hands on experience with a job, do not drink the water, what you see is what you get, a feeling of complete exasperation. "
+
+Real Text Entered: 
+"the imagination of the nation, rejection letters are discouraging, video camera, with a zoom lens, where can my little dog be,"
+WPM: 12.9
+TER: 0.55
+NCER: 0.0125
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 1/2/2022 7:56:22 PM
+User: Wenjing Yang, 20, female, inexperienced, right-handed, from Zhizhen Academy, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_Y><PC><VK_M><SC><VK_B><PC><VK_G><SC><Del><SC><VK_O><VK_L><PC><OEM_COMMA><TC><Del><Del><Del><VK_U><VK_N><TC><VK_A><SC><VK_T><VK_O><SC><VK_E><VK_X><PC><OEM_COMMA><VK_T><VK_R><PC><VK_R><VK_E><VK_Q><PC><SC><VK_L><VK_O><VK_O><Del><PC><VK_O><PC><VK_F><VK_U><PC><OEM_COMMA><VK_I><Del><OEM_COMMA><Del><Del><VK_I><Space><VK_C><PC><VK_P><PC><VK_M><TC><VK_B><VK_E><SC><VK_N>
+Assigned Phrase: 
+"you must be getting old, universities are too expensive, traveling requires a lot of fuel, I can play much better now, learn to walk before you run, on the way to the cottage, if you were not so stupid, head shoulders knees and toes. "
+
+Real Text Entered: 
+"you must be getting old, universities are too expensive, traveling requires a lot of fuel, i can play much better n"
+WPM: 11.5
+TER: 0.0782608695652174
+NCER: 0.00869565217391304
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 1/2/2022 7:58:40 PM
+User: Wenjing Yang, 20, female, inexperienced, right-handed, from Zhizhen Academy, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_W><PC><VK_E><VK_A><VK_C><PC><VK_S><VK_T><VK_E><PC><VK_F><PC><Del><VK_W><PC><OEM_COMMA><VK_E><SC><VK_S><VK_A><VK_T><VK_U><PC><VK_H><VK_E><Space><VK_F><VK_O><VK_L><SC><PC><VK_L><VK_A><VK_N><VK_D><VK_U><Space><Space><Del><Del><Del><Del><Del><VK_U><SC><OEM_COMMA><VK_W><VK_I><SC><VK_G><Del><VK_C><VK_O><VK_N><PC><VK_W><PC><VK_P><VK_E>
+Assigned Phrase: 
+"with each step forward, every Saturday he folds the laundry, well connected with people, the treasury department is broken, limited warranty of two years, you are not a jedi yet, everybody looses in custody battles, everyone wants to win the lottery. "
+
+Real Text Entered: 
+"with each step forward, every saturday he folds the laundry, will connected with pe"
+WPM: 8.3
+TER: 0.108433734939759
+NCER: 0.0240963855421687
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 1/2/2022 8:03:20 PM
+User: Wenjing Yang, 20, female, inexperienced, right-handed, from Zhizhen Academy, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_H><PC><VK_I><PC><VK_S><VK_H><VK_O><VK_T><Del><VK_U><TC><VK_L><VK_O><VK_U><PC><OEM_COMMA><VK_M><PC><VK_P><VK_E><VK_F><Del><Del><VK_R><VK_E><SC><VK_T><VK_R><VK_E><PC><TC><VK_G><Del><VK_C><VK_H><SC><Del><Del><Del><Del><Del><Del><Del><Del><PC><OEM_COMMA><VK_L><VK_I><VK_S><PC><VK_T><SC><VK_F><VK_I><TC><VK_H><VK_O><VK_U><SC><VK_O><VK_F><Space><VK_O><VK_P>
+Assigned Phrase: 
+"he is shouting loudly, my preferred treat is chocolate, listen to five hours of opera, parking lot is full of trucks, travel at the speed of light, very reluctant to enter, peek out the window, house with new electrical panel. "
+
+Real Text Entered: 
+"he is shouting loudly, my preferred treat is chocolate, listen to five hours of op"
+WPM: 8.2
+TER: 0.146341463414634
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 1/2/2022 8:05:32 PM
+User: Wenjing Yang, 20, female, inexperienced, right-handed, from Zhizhen Academy, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_D><VK_O><TC><Del><Del><Del><Space><VK_Y><PC><VK_L><TC><SC><Del><Del><Del><Del><Del><Del><PC><VK_T><SC><VK_G><TC><VK_C><VK_A><VK_M><SC><OEM_COMMA><VK_W><VK_H><PC><VK_Y><PC><VK_S><VK_E><PC><TC><VK_W><VK_H><PC><VK_Y><PC><VK_G><SC><OEM_COMMA><SC><Del><Del><VK_T><PC><VK_A><VK_C><VK_C><TC><Del><SC><VK_S><VK_P><VK_E><VK_E><SC><VK_W><VK_A><PC><VK_B><VK_O><SC><OEM_COMMA><VK_S><VK_I><VK_T><Del><VK_S><Del><SC><VK_T>
+Assigned Phrase: 
+"do you like to go camping, what you see is what you get, the acceptance speech was boring, sit at the front of the bus, a yard is almost as long as a meter, I do not fully agree with you, where did you get such a silly idea, for your information only. "
+
+Real Text Entered: 
+"do you like to go camping, what you see is what you get, the acceptance speech was boring, six t"
+WPM: 9.6
+TER: 0.166666666666667
+NCER: 0.0208333333333333
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 1/2/2022 8:07:44 PM
+User: Wenjing Yang, 20, female, inexperienced, right-handed, from Zhizhen Academy, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_G><VK_A><Del><VK_A><VK_M><SC><VK_E><VK_V><VK_E><VK_N><SC><VK_L><VK_O><TC><VK_T><VK_T><Del><VK_H><VK_E><TC><VK_S><VK_E><Del><VK_H><VK_I><TC><OEM_COMMA><VK_N><VK_F><SC><Del><Del><Del><Del><Del><SC><VK_T><VK_O><VK_O><Space><VK_R><VK_I><VK_C><VK_H><Space><VK_A><TC><VK_N><VK_E><VK_V><TC><VK_T><Space><Space><Space><Space><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><TC><Del><Del><Del><Del><PC><VK_T><SC><Del><SC><VK_T><VK_H><SC><Del><Del><VK_N><OEM_COMMA><VK_T><VK_R>
+Assigned Phrase: 
+"gamblers eventually loose their shirts, never too rich and never too thin, travel at the speed of light, granite is the hardest of all rocks, what a lovely red jacket, accompanied by an adult, victims deserve more redress, life is but a dream. "
+
+Real Text Entered: 
+"gamblers eventually loose their shirts, never too rich and never too thin, tr"
+WPM: 7.7
+TER: 0.324675324675325
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 1/2/2022 8:10:01 PM
+User: Wenjing Yang, 20, female, inexperienced, right-handed, from Zhizhen Academy, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<PC><VK_P><VK_L><VK_U><PC><VK_D><PC><Del><TC><VK_N><PC><VK_F><VK_I><VK_T><Space><TC><Del><Del><Del><Del><Space><TC><Del><Del><Del><TC><Del><Del><Del><PC><VK_S><TC><Del><VK_C><PC><OEM_COMMA><PC><VK_D><VK_O><SC><VK_W><SC><VK_B><VK_I><TC><Del><Del><Space><VK_Y><PC><OEM_COMMA><VK_H><PC><TC><VK_J><PC><VK_L><TC><Del><Del><Del><Del><PC><VK_E><SC><Del><SC><VK_E><VK_L><TC><Del><Del><Del><Del><Del><Del><Del><Del><PC><OEM_COMMA><VK_O><SC><Del><SC><VK_N><SC><VK_I>
+Assigned Phrase: 
+"the plug does not fit the socket, the dog will bite you, he is just like everyone else, one never takes too many precautions, valid until the end of the year, look in the syllabus for the course, please take a bath this month, the chancellor was very boring. "
+
+Real Text Entered: 
+"the plug does not fit the socket, the dog will bite you, he is just like everyone else, one never i"
+WPM: 9.9
+TER: 0.292929292929293
+NCER: 0.0101010101010101
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 1/2/2022 8:12:24 PM
+User: Wenjing Yang, 20, female, inexperienced, right-handed, from Zhizhen Academy, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_P><VK_E><VK_E><PC><VK_O><TC><TC><Del><Del><Del><PC><VK_W><VK_I><TC><Del><TC><OEM_COMMA><VK_U><SC><Del><SC><VK_F><VK_R><TC><VK_I><SC><Del><VK_T><PC><OEM_COMMA><VK_O><VK_B><TC><VK_M><SC><VK_B><PC><VK_M><VK_E><VK_T><VK_T><Del><Space><VK_F><VK_I><PC><OEM_COMMA><VK_Y><PC><VK_X><Del><OEM_COMMA><Del><Del><Space><VK_W><VK_A><VK_N><PC><VK_T><SC><VK_E><VK_A><VK_T><Space>
+Assigned Phrase: 
+"peek out the window, user friendly interface, obligations must be met first, you want to eat your cake, we run the risk of failure, I listen to the tape everyday, we accept personal checks, fall is my favorite season. "
+
+Real Text Entered: 
+"peek out the window, user friendly interface, obligations must be met first, you want to eat "
+WPM: 9.3
+TER: 0.118279569892473
+NCER: 0.010752688172043
