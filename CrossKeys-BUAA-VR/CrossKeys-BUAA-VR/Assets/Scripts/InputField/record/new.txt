@@ -1,0 +1,135 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 4:42:12 PM
+User: Xiaolong Liu, 29, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_W><VK_O><VK_U><PC><VK_Y><VK_O><VK_U><PC><VK_L><VK_I><PC><VK_T><VK_O><PC><VK_C><VK_O><PC><VK_T><SC><VK_M><PC><VK_H><VK_O><VK_U><PC><OEM_COMMA><VK_E><VK_X><VK_W><Del><VK_E><VK_R><PC><VK_I><VK_T><Del><VK_S><PC><VK_G><VK_O><VK_O><PC><VK_F><PC><VK_T><VK_F><Del><VK_H><VK_E><VK_N><PC><Del><Del><PC><VK_M><VK_I><SC><OEM_COMMA><VK_Y><VK_O><VK_U><VK_L><Del><SC><VK_P>
+Assigned Phrase: 
+"would you like to come to my house, exercise is good for the mind, your presentation was inspiring, I can still feel your presence, if at first you do not succeed, I just cannot figure this out, teaching services will help, find a nearby parking spot. "
+
+Real Text Entered: 
+"would you like to come to my house, exercise is good for the mind, your p"
+WPM: 7.3
+TER: 0.0821917808219178
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 4:48:39 PM
+User: Xiaolong Liu, 29, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_H><VK_E><SC><VK_A><VK_N><VK_L><Del><Del><VK_R><VK_E><Space><VK_W><VK_I><VK_N><VK_N><SC><VK_A><VK_N><VK_D><Space><VK_L><VK_O><VK_S><VK_E><PC><OEM_COMMA><VK_W><VK_E><Space><VK_A><VK_C><VK_C><TC><VK_P><OEM_COMMA><Del><Del><VK_P><VK_E><VK_R><VK_S><VK_O><VK_N><VK_E><Del><VK_A><VK_L><Space><VK_C><VK_H><VK_E><TC><OEM_COMMA><VK_L><VK_I><VK_S><VK_T><VK_E><VK_N><Space><VK_T><VK_O><Space><VK_F><OEM_COMMA><Del><Del><VK_I>
+Assigned Phrase: 
+"there are winners and losers, we accept personal checks, listen to five hours of opera, they love to yap about nothing, accompanied by an adult, a very traditional way to dress, six daughters and seven sons, we must redouble our efforts. "
+
+Real Text Entered: 
+"there are winners and losers, we accept personal checks, listen to fi"
+WPM: 6.9
+TER: 0.101449275362319
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 4:50:48 PM
+User: Xiaolong Liu, 29, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<OEM_PERIOD><Del><Del><PC><VK_K><VK_I><SC><VK_S><VK_F><Del><VK_E><VK_N><VK_D><PC><VK_Y><VK_O><PC><VK_N><Del><Del><Space><VK_T><SC><VK_T><VK_H><VK_E><Space><VK_T><VK_O><VK_W><VK_E><PC><OEM_COMMA><VK_L><VK_I><VK_E><Space><VK_D><VK_E><VK_C><VK_G><Space><Del><Del><Del><VK_T><VK_E><PC><VK_T><VK_E><VK_S><VK_T><VK_S><Space><VK_N><VK_E><VK_V><PC><VK_W><VK_O><VK_R><PC><OEM_COMMA><VK_W><VK_E><Space><VK_H><Del><VK_D><VK_R><VK_I><SC><VK_O><VK_N>
+Assigned Phrase: 
+"the king sends you to the tower, lie detector tests never work, we drive on parkways, longer than a football field, a fox is a very smart animal, make my day you sucker, user friendly interface, learn to walk before you run. "
+
+Real Text Entered: 
+"the king sends you to the tower, lie detector tests never work, we drive on"
+WPM: 7.5
+TER: 0.12
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 4:52:53 PM
+User: Xiaolong Liu, 29, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_H><VK_B><Del><VK_A><PC><VK_A><VK_G><VK_R><VK_R><Del><VK_N><Del><SC><VK_I><VK_S><PC><VK_R><VK_I><VK_F><VK_E><PC><VK_W><VK_I><VK_T><PC><VK_P><VK_R><VK_O><VK_B><SC><OEM_COMMA><VK_H><VK_E><PC><TC><VK_S><VK_T><PC><VK_O><VK_N><Space><VK_O><VK_V><VK_R><Del><Del><VK_U><VK_R><PC><VK_T><VK_E><VK_A><VK_M><PC><OEM_COMMA><VK_A><PC><VK_F><VK_O><VK_R><Del><VK_X><PC><VK_I><VK_S>
+Assigned Phrase: 
+"that agreement is rife with problems, he is still on our team, a fox is a very smart animal, it is very windy today, take a coffee break, what you see is what you get, a tumor is OK provided it is benign, a big scratch on the tabletop. "
+
+Real Text Entered: 
+"that agreement is rife with problems, he is still on our team, a fox is"
+WPM: 7.1
+TER: 0.0845070422535211
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 4:59:44 PM
+User: Xiaolong Liu, 29, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<SC><Del><Del><PC><Del><Del><Del><Del><VK_M><PC><VK_P><VK_R><VK_E><SC><VK_T><VK_R><VK_E><VK_B><Del><PC><VK_I><VK_S><PC><VK_C><VK_H><PC><OEM_COMMA><VK_T><VK_H><SC><VK_I><Del><PC><Del><Del><Del><Del><TC><Del><Del><Del><VK_P><VK_E><VK_R><SC><TC><VK_A><PC><VK_D><VK_I><VK_S><SC><OEM_COMMA><VK_O><VK_N><PC><PC><VK_W><VK_A><TC><VK_T><VK_O><PC><PC><VK_C><VK_O><VK_T><VK_T><SC><VK_T><OEM_COMMA><Del><Del><Del><OEM_COMMA><Del><VK_W><VK_H><VK_E><Del><Del><Del><Space><Del><Space><Del><Space><VK_W>
+Assigned Phrase: 
+"my preferred treat is chocolate, this person is a disaster, on the way to the cottage, where did you get such a silly idea, do not lie in court or else, one heck of a question, question that must be answered, this system of taxation. "
+
+Real Text Entered: 
+"my preferred treat is chocolate, this person is a disaster, on the way to the cottage, w"
+WPM: 8.8
+TER: 0.272727272727273
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 5:01:50 PM
+User: Xiaolong Liu, 29, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_B><VK_R><VK_I><PC><PC><VK_O><VK_F><VK_F><VK_E><VK_N><SC><VK_T><VK_O><VK_N><Del><PC><VK_J><VK_U><PC><Del><SC><OEM_COMMA><VK_F><VK_V><VK_F><Del><Del><Del><VK_E><VK_V><VK_E><VK_R><VK_Y><VK_B><PC><VK_L><VK_O><VK_O><VK_S><VK_E><SC><VK_I><VK_N><Space><VK_C><VK_U><VK_S><VK_T><VK_O><PC><VK_B><VK_A><VK_T><VK_T><SC><OEM_COMMA><VK_I><VK_F><Space><VK_A><VK_T><Space><VK_F><VK_I><PC><VK_Y>
+Assigned Phrase: 
+"bring the offenders to justice, everybody looses in custody battles, if at first you do not succeed, my favorite web browser, soon we will return from the city, the protesters blocked all traffic, time to go shopping, the fourth edition was better. "
+
+Real Text Entered: 
+"bring the offenders to justice, everybody looses in custody battle, if at first y"
+WPM: 8.1
+TER: 0.0864197530864197
+NCER: 0.0246913580246914
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 5:04:04 PM
+User: Xiaolong Liu, 29, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_S><VK_T><VK_A><VK_F><Del><VK_Y><VK_I><Del><SC><VK_A><VK_W><VK_A><PC><VK_F><SC><VK_S><VK_T><VK_R><VK_A><PC><OEM_COMMA><VK_T><VK_H><PC><VK_C><VK_A><VK_T><Space><VK_H><VK_A><VK_S><Space><VK_A><Space><VK_P><VK_L><VK_E><VK_A><SC><VK_T><VK_E><VK_M><PC><OEM_COMMA><VK_Y><PC><VK_A><SC><VK_A><Space><VK_C><VK_A><VK_P><PC><Del><SC><VK_P><VK_I><VK_G><OEM_COMMA><Del><Del><VK_G><Space><OEM_COMMA><Space><OEM_COMMA><Del><Del><VK_I>
+Assigned Phrase: 
+"stay away from strangers, the cat has a pleasant temperament, you are a capitalist pig, if you come home late the doors are locked, information super highway, a security force of eight thousand, shall we play a round of cards, fall is my favorite season. "
+
+Real Text Entered: 
+"stay away from strangers, the cat has a pleasant temperament, you are a capitalist pig ,  i"
+WPM: 9.1
+TER: 0.120879120879121
+NCER: 0.043956043956044
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 5:06:14 PM
+User: Xiaolong Liu, 29, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<PC><VK_T><VK_R><VK_A><VK_I><SC><Del><VK_S><Del><VK_S><Space><VK_A><VK_F><SC><Del><Del><Del><Del><Del><SC><VK_A><VK_L><SC><VK_L><VK_A><VK_T><SC><Del><Del><Space><OEM_COMMA><VK_A><VK_H><Del><VK_N><Space><VK_E><VK_N><VK_L><VK_A><VK_R><PC><VK_N><VK_O><VK_S><VK_E><Space><VK_S><VK_U><VK_F><Del><VK_G><VK_G><PC><VK_Y><PC><VK_A><SC><VK_A><Space><VK_L><OEM_COMMA><VK_A><Del><Del><Del><OEM_COMMA><Del><Del><VK_I><VK_A><PC><OEM_COMMA><VK_Y><Del><VK_Z><VK_E><VK_R><VK_O><Space><VK_I><VK_N><Space><VK_O><VK_N><Space><OEM_PERIOD><Del><Del>
+Assigned Phrase: 
+"the trains are always late, an enlarged nose suggests you are a liar, zero in on the facts, the water was monitored daily, he is shouting loudly, seasoned golfers love the game, my favourite sport is racketball, the fax machine is broken. "
+
+Real Text Entered: 
+"the trains are always late, an enlarged nose suggests you are a liar, zero in on "
+WPM: 8.1
+TER: 0.246913580246914
+NCER: 0.0123456790123457
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 5:08:26 PM
+User: Xiaolong Liu, 29, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_A><Space><VK_S><Del><VK_T><VK_U><VK_M><VK_M><Del><TC><Del><Del><Del><Del><PC><VK_I><PC><VK_O><VK_K><Space><VK_P><VK_R><VK_O><VK_V><SC><VK_I><VK_T><Del><VK_T><VK_V><Del><PC><TC><VK_B><VK_E><VK_N><PC><VK_I><Del><VK_I><Del><Del><OEM_COMMA><Del><Del><OEM_PERIOD><Del><Del><PC><OEM_COMMA><VK_T><PC><VK_F><VK_O><VK_U><TC><VK_E><VK_D><VK_I><VK_T><PC><VK_W><VK_A><PC><VK_B><VK_E><VK_I><Del><SC><OEM_COMMA><PC><VK_F><OEM_COMMA><Del><Del><VK_F><VK_I><VK_R><VK_S><VK_T><Space>
+Assigned Phrase: 
+"a tumor is OK provided it is benign, the fourth edition was better, the first time he tried to swim, give me one spoonful of coffee, the cotton is high, he is shouting loudly, my dog sheds his hair, faster than a speeding bullet. "
+
+Real Text Entered: 
+"a tumor is ok provided it is benig, the fourth edition was better, the first "
+WPM: 7.7
+TER: 0.272727272727273
+NCER: 0.038961038961039

@@ -1,0 +1,135 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 11:38:58 AM
+User: Kangyu Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_M><PC><VK_F><TC><VK_S><VK_P><VK_O><PC><VK_I><PC><VK_R><VK_A><VK_C><SC><OEM_COMMA><VK_T><VK_R><SC><VK_T><SC><VK_E><VK_N><TC><VK_Y><SC><VK_M><VK_A><VK_T><PC><VK_L><VK_E><PC><OEM_COMMA><VK_I><VK_N><SC><VK_S><VK_U><VK_P><PC><VK_H><VK_I><TC><OEM_COMMA><VK_E><TC><VK_I><PC><VK_W><VK_H><PC><VK_I><VK_T><PC><VK_W><SC><VK_T><VK_A><PC><OEM_COMMA><VK_T><VK_H>
+Assigned Phrase: 
+"my favourite sport is racketball, try to enjoy your maternity leave, information super highway, effort is what it will take, this watch is too expensive, completely sold out of that, the first time he tried to swim, the sun rises in the east. "
+
+Real Text Entered: 
+"my favorite sport is racketball, try to enjoy your maternity leave, information super highway, effort is what it will take, th"
+WPM: 12.6
+TER: 0.0158730158730159
+NCER: 0.0158730158730159
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 11:46:53 AM
+User: Kangyu Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<PC><VK_F><VK_A><TC><VK_G><SC><VK_I><SC><PC><OEM_COMMA><Del><Del><Space><VK_W><VK_A><TC><OEM_COMMA><VK_P><SC><VK_K><PC><VK_T><TC><VK_C><VK_O><VK_N><VK_F><PC><OEM_COMMA><VK_S><PC><VK_Y><PC><VK_L><VK_A><VK_T><SC><VK_A><VK_L><VK_L><TC><OEM_COMMA><VK_A><VK_L><VK_L><PC><VK_T><VK_O><VK_G><PC><VK_I><SC><VK_O><VK_N><SC><VK_B><TC><VK_P><VK_I><PC><OEM_COMMA><VK_H><VK_E><VK_A>
+Assigned Phrase: 
+"the facts get in the way, please keep this confidential, see you later alligator, all together in one big pile, healthy food is good for you, everyone wants to win the lottery, good at addition and subtraction, I hate baking pies. "
+
+Real Text Entered: 
+"the facts get in the way, please keep this confidential, see you later alligator, all together in one big pile, hea"
+WPM: 11.5
+TER: 0.0173913043478261
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 11:49:51 AM
+User: Kangyu Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_A><PC><VK_G><PC><VK_R><VK_E><VK_S><PC><VK_T><SC><VK_T><PC><VK_Q><SC><VK_L><Del><OEM_COMMA><VK_J><PC><VK_L><PC><VK_I><VK_T><PC><VK_S><VK_A><VK_Y><SC><VK_O><SC><VK_T><VK_H><PC><VK_S><VK_C><VK_A><VK_N><PC><Del><Del><Del><Del><Del><VK_C><VK_A><PC><OEM_COMMA><PC><VK_M><VK_I><VK_N><TC><VK_A><VK_M><VK_O><PC><VK_O><PC>
+Assigned Phrase: 
+"a good response to the question, why do you ask silly questions, just like it says on the can, the minimum amount of time, dormitory doors are locked at midnight, not quite so smart as you think, vanilla flavored ice cream, please provide your date of birth. "
+
+Real Text Entered: 
+"a good response to the questions, just like it says on the can, the minimum amount of "
+WPM: 8.6
+TER: 0.581395348837209
+NCER: 0.511627906976744
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 11:52:32 AM
+User: Kangyu Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_W><VK_E><VK_E><Del><VK_L><PC><VK_C><VK_O><VK_N><PC><VK_W><PC><VK_P><VK_E><PC><OEM_COMMA><VK_M><PC><VK_D><VK_O><SC><VK_S><VK_H><VK_E><SC><VK_H><VK_I><SC><VK_H><VK_A><VK_I><PC><OEM_COMMA><VK_P><VK_L><SC><VK_P><VK_R><TC><VK_Y><VK_O><SC><VK_D><VK_A><SC><VK_O><PC><VK_B><VK_I><SC><OEM_COMMA><VK_T><PC><VK_A><VK_S><VK_S><SC><VK_T><VK_O><VK_O><SC><VK_S><VK_I><SC><VK_M><VK_O><VK_N>
+Assigned Phrase: 
+"well connected with people, my dog sheds his hair, please provide your date of birth, the assault took six months, this leather jacket is too warm, look in the syllabus for the course, all good boys deserve fudge, if diplomacy does not work. "
+
+Real Text Entered: 
+"well connected with people, my dog sheds his hair, please provide your date of birth, the assault took six mon"
+WPM: 11
+TER: 0.00909090909090909
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 11:59:32 AM
+User: Kangyu Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_J><PC><VK_W><VK_H><PC><VK_T><PC><VK_D><VK_O><VK_C><PC><VK_O><VK_R><Del><Del><VK_D><VK_O><VK_C><PC><OEM_COMMA><VK_O><VK_R><VK_D><SC><OEM_COMMA><VK_W><TC><VK_M><VK_I><VK_S><SC><VK_Y><SC><VK_B><VK_I><VK_R><TC><OEM_COMMA><VK_T><VK_H><PC><VK_P><VK_E><VK_N><SC><VK_I><PC><VK_M><VK_I><VK_G><SC><VK_T><VK_H><VK_A><SC><VK_T><VK_H><PC><VK_S><VK_W><VK_F><SC>
+Assigned Phrase: 
+"just what the doctor ordered, we missed your birthday, the pen is mightier than the sword, you are a capitalist pig, head shoulders knees and toes, frequently asked questions, dashing through the snow, a rattle snake is very poisonous. "
+
+Real Text Entered: 
+"just what the doctor doctor, ordered, we missed your birthday, the pen is might than the swfrd "
+WPM: 9.5
+TER: 0.210526315789474
+NCER: 0.189473684210526
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 12:02:01 PM
+User: Kangyu Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_T><VK_E><VK_L><PC><SC><VK_L><VK_I><SC><VK_A><VK_N><PC><VK_Y><SC><VK_N><VK_O><VK_S><PC><VK_W><SC><VK_G><VK_R><VK_O><TC><OEM_COMMA><VK_S><VK_T><VK_A><VK_B><PC><VK_O><VK_F><PC><VK_T><PC><VK_N><VK_A><PC><OEM_COMMA><VK_A><VK_N><SC><VK_O><VK_F><VK_F><TC><VK_Y><VK_O><PC><VK_G><Del><VK_C><VK_A><SC><VK_R><VK_E><VK_F><PC><OEM_COMMA><VK_T><VK_R><SC><VK_T><VK_O><PC><VK_E><VK_N><TC><VK_Y><VK_O><VK_U>
+Assigned Phrase: 
+"tell a lie and your nose will grow, stability of the nation, an offer you cannot refuse, try to enjoy your maternity leave, shall we play a round of cards, communicate through email, get aboard the ship is leaving, watch out for low flying objects. "
+
+Real Text Entered: 
+"tell a lie and your nose will grow, stability of the nation, an offer you cannot refuse, try to enjoy you"
+WPM: 10.5
+TER: 0.00952380952380952
+NCER: 0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 12:04:21 PM
+User: Kangyu Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_I><VK_T><PC><VK_L><VK_O><VK_O><VK_K><PC><VK_L><PC><VK_A><PC><VK_S><VK_H><VK_A><TC><OEM_COMMA><PC><VK_D><VK_A><VK_R><PC><VK_Y><VK_O><VK_U><VK_N><PC><VK_M><VK_A><VK_N><SC><OEM_COMMA><VK_P><VK_R><VK_O><VK_T><PC><VK_Y><VK_O><SC><VK_E><VK_N><PC><OEM_COMMA><VK_T><VK_H><VK_E><SC><VK_T><VK_W><PC><VK_O><VK_N><SC><VK_Z><PC><VK_F>
+Assigned Phrase: 
+"it looks like a shack, the daring young man, protect your environment, three two one zero blast off, Canada has ten provinces, historic meeting without a result, the cotton is high, parking lot is full of trucks. "
+
+Real Text Entered: 
+"it looks like a shack, the daring young man, protect your environment, there two one zero f"
+WPM: 9.1
+TER: 0.032967032967033
+NCER: 0.032967032967033
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 12:06:27 PM
+User: Kangyu Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_D><PC><VK_N><VK_O><PC><VK_S><VK_A><PC><VK_A><VK_N><VK_J><Del><VK_Y><PC><OEM_PERIOD><Del><Del><OEM_COMMA><VK_T><PC><VK_D><TC><VK_W><SC><VK_B><VK_I><VK_T><SC><VK_Y><PC><OEM_COMMA><VK_W><VK_H><PC><VK_G><VK_O><VK_E><PC><VK_U><VK_P><PC><VK_M><VK_U><PC><VK_C><SC><VK_F><Del><VK_D><VK_O><VK_W><SC><OEM_COMMA><VK_I><Space><OEM_COMMA><Del><Del><VK_W><SC><VK_M><VK_E><TC><VK_Y><VK_O><PC><VK_A><VK_T><PC><VK_U><Del><VK_N><VK_O>
+Assigned Phrase: 
+"do not say anything, the dog will bite you, what goes up must come down, I will meet you at noon, salesmen must make their monthly quota, get your priorities in order, elections bring out the best, a correction had to be published. "
+
+Real Text Entered: 
+"do not say anything, the dog will bite you, what goes up must come down, i will meet you at no"
+WPM: 9.4
+TER: 0.0851063829787234
+NCER: 0.0106382978723404
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: 12/29/2021 12:08:41 PM
+User: Kangyu Wang, 20, male, experienced, right-handed, from SCSE, BUAA
+Duration: 120000ms
+Type: Alpha
+Entry Tokens: 
+<VK_J><Del><VK_A><PC><VK_D><TC><VK_I><PC><VK_T><PC><VK_B><VK_E><VK_S><PC><VK_F><VK_R><VK_I><SC><VK_O><PC><SC><VK_M><VK_A><VK_N><SC><OEM_COMMA><VK_I><Space><VK_J><PC><VK_S><VK_C><Del><Del><VK_C><VK_A><SC><VK_F><VK_I><VK_G><PC><VK_T><TC><VK_O><VK_U><PC><OEM_COMMA><VK_N><VK_E><PC><VK_M><VK_I><VK_X><PC><VK_R><VK_E><VK_L><TC><VK_A><VK_N><PC><VK_P><VK_O>
+Assigned Phrase: 
+"a dog is the best friend of a man, I just cannot figure this out, never mix religion and politics, starlight and dewdrop, my favorite place to visit, my favorite subject is psychology, the world is a stage, what goes up must come down. "
+
+Real Text Entered: 
+"a dog is the best friend of a man, i just cannot figure this out, never mix religion and po"
+WPM: 9.1
+TER: 0.043956043956044
+NCER: 0.010989010989011
