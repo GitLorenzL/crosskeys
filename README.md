@@ -2,7 +2,7 @@
 
 ## Text Entry for Virtual Reality Using Controllers via Wrist Rotation
 
-> IEEE VR paper link: https://gitlorenzl.github.io/files/VRIH-D-23-00028.pdf
+> IEEE VR paper link: https://lorenz-liu.github.io/files/VRIH-D-23-00028.pdf
 
 ### Installation
 
